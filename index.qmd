@@ -26,7 +26,7 @@ about:
 ---
 
 # SD4SP Stratospheric Dynamics for Seasonal Prediction 
-
+logo: 
 Este portal interactivo documenta mi investigación sobre la **Oscilación Cuasi-Bienal (QBO)**. El objetivo es desentrañar cómo la variabilidad en la estratosfera tropical modula el clima global a través de teleconexiones complejas.
 
 ::: {.grid}
