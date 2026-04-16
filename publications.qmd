@@ -3,9 +3,13 @@ title: "Publications"
 ---
 
 ### Manuscripts in Preparation & Under Review
-
-* **Palmeiro, F. M.**, B. Mezzina, and J. García-Serrano. *The ENSO modulation of the 3-dimensional structure of the stratospheric polar vortex*. (To be submitted to **Nature Geoscience**).
-* Andrews, M. B., N. Butchart, ..., **F. M. Palmeiro**, et al. *Extratropical teleconnections in a multi-model ensemble nudged towards the observed QBO*. **Weather Clim. Dyn.** (Under review).
+* **Palmeiro, F. M.**, J. A. Anstey and QBOi co-authors. *QBO-resolving model biases and their impacts on the extratropical teleconnections*. (In preparation).
+* **Palmeiro, F. M.**, A. Sanna, P. A. and S. Gualdi. *The impact of a better solved stratosphere in the CMCC seasonal prediction system*. (In preparation).
+* **Palmeiro, F. M.**, B. Mezzina, and J. García-Serrano. *The ENSO modulation of the 3-dimensional structure of the stratospheric polar vortex*. (To be submitted).
+* Sun, L., **F. M. Palmeiro** and M. Jucker. *Stratosphere Relays El Niño’s Cross-continental Teleconnection from Winter North America to Early-summer Eurasia*.(To be submitted)
+* Blanco-Cabanillas, A., R. K. Scharien, S. E. L. Howell and **F. M. Palmeiro**. *Sea ice regime shifts in Baffin Bay in the context of multi-decadal atmospheric variability*. (Under review).
+* Andrews, M. B., N. Butchart, E. Bednarz, D. Elsbury, **F. M. Palmeiro**, et al. [Extratropical teleconnections in a multi-model ensemble nudged towards the observed QBO](https://wcd.copernicus.org/). *Weather Clim. Dyn.* (Under review).
+* Rodrigo, M., J. L. García-Franco, J. García-Serrano, I. Bladé and **F. M. Palmeiro**. [Mechanisms of the QBO influence on the tropical troposphere: modulation by ENSO conditions](https://agupubs.onlinelibrary.wiley.com/journal/21698996). *J. Geophys. Res.: Atmos.* (Under review).
 
 ---
 
