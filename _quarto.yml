@@ -5,7 +5,8 @@ website:
   title: "Froila M. Palmeiro"
   navbar:
     left:
-      - href: index.qmd
+      - icon: house
+        href: index.qmd
         text: Start
       - href: meteo.qmd
         text: Topics (Stratosphere, QBO, ENSO, SSWs)
@@ -13,6 +14,9 @@ website:
         text: Interactive App
       - href: results.qmd
         text: Results
+    right:
+      - icon: github
+        href: https://github.com/TU_USUARIO  # Tu perfil
 
 format:
   html:
