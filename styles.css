@@ -1,0 +1,42 @@
+/* ---justify --- */
+p {
+  text-align: justify;
+}
+
+/* specific styles */
+.about-contents {
+  text-align: justify;
+}
+
+/* --- style --- */
+.navbar {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+/* not gigant */
+.navbar-brand img {
+  max-height: 40px; 
+  width: auto;
+}
+
+/* --- nicer --- */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* link color */
+a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
+/* publications style */
+ul li {
+  margin-bottom: 0.8rem; /* space between papers */
+}
+
+/* --- adjust for index (TOC) --- */
+#quarto-margin-sidebar {
+  padding-right: 20px;
+}
