@@ -1,15 +1,24 @@
 ---
-title: "Estudio de la Oscilación Cuasi-Bienal (QBO)"
+title: "Dinámica Estratosférica: QBO & Teleconexiones"
+subtitle: "Análisis avanzado de vientos zonales y forzamiento de ondas mediante ERA5"
+author: "Tu Nombre"
+date: "2024"
 ---
 
-# Bienvenida
-Este sitio web presenta los resultados de mi investigación sobre la dinámica estratosférica y las teleconexiones atmosféricas.
+# El Proyecto
 
-### Objetivos del proyecto
-* Analizar la evolución de la **QBO** usando datos de ERA5.
-* Estudiar la relación con el **ENSO** y los **SSWs**.
-* Visualizar la línea de viento cero mediante interpolación lineal.
+Este portal interactivo documenta mi investigación sobre la **Oscilación Cuasi-Bienal (QBO)**. El objetivo es desentrañar cómo la variabilidad en la estratosfera tropical modula el clima global a través de teleconexiones complejas.
 
+::: {.grid}
 
+::: {.g-col-6}
+### 📊 Datos
+Utilizamos el reanálisis **ERA5** del ECMWF, procesando décadas de datos de viento zonal y temperatura para identificar patrones de propagación de ondas.
+:::
 
-[Image of atmospheric layers and stratosphere]
+::: {.g-col-6}
+### 🧪 Metodología
+Aplicamos técnicas de **interpolación lineal** para definir el ancho del waveguide y la evolución de la línea de viento cero en el Hemisferio Norte.
+:::
+
+:::
