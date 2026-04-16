@@ -16,25 +16,26 @@ website:
       - text: "Project SD4SP"
         href: sd4sp_project.qmd
       - href: app.qmd
-        text: Interactive App
+        text: "Interactive App"
       - href: results.qmd
-        text: Results
+        text: "Results"
                 
     right:
       - icon: github
-        href: https://github.com/TU_USUARIO  # Tu perfil
+        href: https://github.com/Froila-science  # Tu perfil
 
 format:
   html:
     theme: 
       light: cosmo
       dark: darkly
+    css: styles.css  # <-- Asegúrate de incluir esta línea si creaste el archivo CSS para justificar el texto
     fontsize: 1.1em
     linestretch: 1.5
     toc: true
     toc-depth: 3
-    toc-location: left  # Mueve el índice a la izquierda para que parezca un libro técnico
-    code-copy: true     # Botón para que la gente copie tus fórmulas/código
+    toc-location: left
+    code-copy: true
     anchor-sections: true
     smooth-scroll: true
      
