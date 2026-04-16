@@ -2,8 +2,6 @@
 title: "Froila M. Palmeiro"
 subtitle: "Climate Researcher"
 image: IMG_20211114_130528_Bokeh.jpg
-author: "Froila M. Palmeiro"
-date: "2026"
 about:
   template: jolla
   links:
