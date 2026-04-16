@@ -46,7 +46,7 @@ title: "Publications"
 ---
 
 ### Reports & Thesis
-
+* Mudhar, R., A. Hall, J. Huang, R. W. Lee, and **F. M. Palmeiro** (2025). [QBOi-SNAP-QUOCA (QSQ) Workshop meeting report](https://rmets.onlinelibrary.wiley.com/doi/10.1002/wea.7788). *APARC newsletter no. 65* and *Weather*.
 * Gerber, E. P., ..., **F. M. Palmeiro**, et al. (2021). [Extratropical stratosphere-troposphere coupling](https://doi.org/10.3929/ethz-a-010782163). **S-RIP Final Report**.
 * **Palmeiro, F. M.** (2018). [Sudden Stratospheric Warmings and the Brewer-Dobson Circulation](https://eprints.ucm.es/id/eprint/48270/). **PhD Thesis**, UCM.
 
