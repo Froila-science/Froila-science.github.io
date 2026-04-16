@@ -1,11 +1,15 @@
 ---
-title: "Dinámica Estratosférica: QBO & Teleconexiones"
-subtitle: "Análisis avanzado de vientos zonales y forzamiento de ondas mediante ERA5"
-author: "Tu Nombre"
-date: "2024"
+title: "About me"
+subtitle: "I completed my PhD in Physics at the Universidad Complutense de Madrid in 2018, my dissertation was entitled Sudden Stratospheric Warmings and the Brewer-Dobson Circulation: diagnostics and interactions. I next expanded my research on stratospheric dynamics and climate modelling at the Barcelona Supercomputing Center and later at the University of Barcelona where I was also teaching and supervising Master students.
+
+In 2022, I was awarded a Marie Skłodowska-Curie global fellowship to join the Euro-Mediterranean Center on Climate Change (CMCC) in Italy and develop my personal project SD4SP (stratospheric dynamics for seasonal prediction), to understand and quantify the role of El Niño Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) as sources of predictability in seasonal forecasting. I am a long-term visitor at the Canadian Centre for Climate Modelling and Analysis (CCCma) in Victoria, Canada, where the outgoing phase of the project takes place.
+
+My main area of interest is stratosphere-troposphere dynamics, including climate variability and predictability, global circulation patterns and their impacts on the surface as well as their representation in climate models."
+author: "Froila M. Palmeiro"
+date: "2026"
 ---
 
-# El Proyecto
+# SD4SP Stratospheric Dynamics for Seasonal Prediction 
 
 Este portal interactivo documenta mi investigación sobre la **Oscilación Cuasi-Bienal (QBO)**. El objetivo es desentrañar cómo la variabilidad en la estratosfera tropical modula el clima global a través de teleconexiones complejas.
 
