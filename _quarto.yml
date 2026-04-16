@@ -3,17 +3,23 @@ project:
 
 website:
   title: "Froila M. Palmeiro"
+  logo: "sd4sp_logo_noback.png"
   navbar:
     left:
       - icon: house
         href: index.qmd
-        text: Start
-      - href: meteo.qmd
-        text: Topics (Stratosphere, QBO, ENSO, SSWs)
+        text: "Home"
+      - href: research.qmd
+        text: "Research Topics" 
+      - href: publications.qmd
+        text: "Publications"
+      - text: "Project SD4SP"
+        href: sd4sp_project.qmd
       - href: app.qmd
         text: Interactive App
       - href: results.qmd
         text: Results
+                
     right:
       - icon: github
         href: https://github.com/TU_USUARIO  # Tu perfil
