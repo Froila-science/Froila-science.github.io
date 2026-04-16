@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Dinámica Estratosférica: QBO & Teleconexiones",
+    "title": "About me",
     "section": "",
-    "text": "El Proyecto\nEste portal interactivo documenta mi investigación sobre la Oscilación Cuasi-Bienal (QBO). El objetivo es desentrañar cómo la variabilidad en la estratosfera tropical modula el clima global a través de teleconexiones complejas.\n\n\n📊 Datos\nUtilizamos el reanálisis ERA5 del ECMWF, procesando décadas de datos de viento zonal y temperatura para identificar patrones de propagación de ondas.\n\n\n🧪 Metodología\nAplicamos técnicas de interpolación lineal para definir el ancho del waveguide y la evolución de la línea de viento cero en el Hemisferio Norte."
+    "text": "SD4SP Stratospheric Dynamics for Seasonal Prediction\nEste portal interactivo documenta mi investigación sobre la Oscilación Cuasi-Bienal (QBO). El objetivo es desentrañar cómo la variabilidad en la estratosfera tropical modula el clima global a través de teleconexiones complejas.\n\n\n📊 Datos\nUtilizamos el reanálisis ERA5 del ECMWF, procesando décadas de datos de viento zonal y temperatura para identificar patrones de propagación de ondas.\n\n\n🧪 Metodología\nAplicamos técnicas de interpolación lineal para definir el ancho del waveguide y la evolución de la línea de viento cero en el Hemisferio Norte."
   },
   {
     "objectID": "app.html",
