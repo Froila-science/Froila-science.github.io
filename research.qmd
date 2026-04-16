@@ -1,0 +1,37 @@
+---
+title: "Under Maintenance"
+page-layout: full
+---
+
+::: {.column-screen .text-center style="padding: 80px 0; background-color: #f8f9fa;"}
+
+# ⚙️
+## Section Temporarily Unavailable
+
+We are currently updating our interactive visualizations.
+
+[Return to Home](index.qmd){.btn .btn-primary .btn-lg role="button" style="margin-top: 20px;"}
+
+:::
+
+---
+
+### Why is this page offline?
+
+To ensure the highest scientific standards, we periodically take the interactive tools offline to:
+
+* **Validate Data:** Verify that the pressure-level interpolations match the latest climate records.
+* **Optimize Performance:** Improve the loading speed of the Plotly visualizations.
+* **Enhance Security:** Update the underlying Python environment for the Streamlit app.
+
+*Thank you for your patience as we improve these research tools.*
+
+<style>
+  h2 {
+    color: #6c757d;
+  }
+  .btn-primary {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+</style>
