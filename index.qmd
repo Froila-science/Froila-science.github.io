@@ -1,12 +1,28 @@
 ---
-title: "About me"
-subtitle: "I completed my PhD in Physics at the Universidad Complutense de Madrid in 2018, my dissertation was entitled Sudden Stratospheric Warmings and the Brewer-Dobson Circulation: diagnostics and interactions. I next expanded my research on stratospheric dynamics and climate modelling at the Barcelona Supercomputing Center and later at the University of Barcelona where I was also teaching and supervising Master students.
+title: "Froila M. Palmeiro"
+subtitle: "Climate Researcher"
+image: IMG_20211114_130528_Bokeh.jpg
+
+I completed my PhD in Physics at the Universidad Complutense de Madrid in 2018, my dissertation was entitled Sudden Stratospheric Warmings and the Brewer-Dobson Circulation: diagnostics and interactions. I next expanded my research on stratospheric dynamics and climate modelling at the Barcelona Supercomputing Center and later at the University of Barcelona where I was also teaching and supervising Master students.
 
 In 2022, I was awarded a Marie Skłodowska-Curie global fellowship to join the Euro-Mediterranean Center on Climate Change (CMCC) in Italy and develop my personal project SD4SP (stratospheric dynamics for seasonal prediction), to understand and quantify the role of El Niño Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) as sources of predictability in seasonal forecasting. I am a long-term visitor at the Canadian Centre for Climate Modelling and Analysis (CCCma) in Victoria, Canada, where the outgoing phase of the project takes place.
 
-My main area of interest is stratosphere-troposphere dynamics, including climate variability and predictability, global circulation patterns and their impacts on the surface as well as their representation in climate models."
+My main area of interest is stratosphere-troposphere dynamics, including climate variability and predictability, global circulation patterns and their impacts on the surface as well as their representation in climate models.
 author: "Froila M. Palmeiro"
 date: "2026"
+
+about:
+  template: jolla       # jolla, trestles, solana, broadside 
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/Froila-science
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/TU_PERFIL
+    - icon: file-earmark-pdf
+      text: Descargar Tesis
+      href: link-a-tu-pdf.pdf  # Si ya lo tienes subido
 ---
 
 # SD4SP Stratospheric Dynamics for Seasonal Prediction 
