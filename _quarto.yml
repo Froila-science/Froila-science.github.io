@@ -3,8 +3,8 @@ project:
 
 website:
   title: "Froila M. Palmeiro"
-  logo: "sd4sp_logo_noback.png"
   navbar:
+    logo: "sd4sp_logo_noback.png"
     left:
       - icon: house
         href: index.qmd
