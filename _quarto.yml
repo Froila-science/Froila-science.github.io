@@ -17,8 +17,6 @@ website:
         href: sd4sp_project.qmd
       - href: app.qmd
         text: "Interactive App"
-      - href: results.qmd
-        text: "Results"
                 
     right:
       - icon: github
