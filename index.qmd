@@ -20,7 +20,7 @@ My main area of interest is stratosphere-troposphere dynamics, including climate
 
 ---
 
-### [SD4SP: Stratospheric Dynamics for Seasonal Prediction](sd4sp_project.qmd) ![](sd4sp_logo_noback.png){width="150px" fig-align="right"}
+### [SD4SP: Stratospheric Dynamics for Seasonal Prediction](sd4sp_project.qmd){style="text-decoration: none; color: inherit;"} ![](sd4sp_logo_noback.png){width="150px" fig-align="right"}
 
 SD4SP is a personal project funded by the European Commission in the **Marie Skłodowska-Curie Actions** framework. It aims to disentangle the mechanisms of atmospheric teleconnections via the stratosphere in order to improve seasonal forecasts. 
 
