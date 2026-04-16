@@ -31,3 +31,4 @@ format:
     code-copy: true     # Botón para que la gente copie tus fórmulas/código
     anchor-sections: true
     smooth-scroll: true
+    
