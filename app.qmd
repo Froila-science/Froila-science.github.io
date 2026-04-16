@@ -1,12 +1,14 @@
 ---
-title: "Herramienta de Análisis Interactiva"
+#title: "Herramienta de Análisis Interactiva"
+page-layout: full
 ---
 
-A continuación puedes interactuar con la aplicación de análisis de datos de ERA5 desarrollada para este proyecto.
-
+::: {.column-screen}
 <iframe
-	src="https://froila-qbo-calculation.hf.space"
-	frameborder="0"
-	width="100%"
-	height="800"
+    src="https://froila-qbo-calculation.hf.space"
+    frameborder="0"
+    width="100%"
+    height="900"
+    style="border:none;"
 ></iframe>
+:::
