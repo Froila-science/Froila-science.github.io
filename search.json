@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Estudio de la Oscilación Cuasi-Bienal (QBO)",
+    "section": "",
+    "text": "Bienvenida\nEste sitio web presenta los resultados de mi investigación sobre la dinámica estratosférica y las teleconexiones atmosféricas.\n\nObjetivos del proyecto\n\nAnalizar la evolución de la QBO usando datos de ERA5.\nEstudiar la relación con el ENSO y los SSWs.\nVisualizar la línea de viento cero mediante interpolación lineal.\n\n[Image of atmospheric layers and stratosphere]"
+  },
+  {
+    "objectID": "app.html",
+    "href": "app.html",
+    "title": "Herramienta de Análisis Interactiva",
+    "section": "",
+    "text": "A continuación puedes interactuar con la aplicación de análisis de datos de ERA5 desarrollada para este proyecto."
+  }
+]
