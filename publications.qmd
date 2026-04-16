@@ -11,7 +11,8 @@ title: "Publications"
 
 ### Published & Peer-Reviewed
 
-**2025**
+#### 2025
+
 * Rodrigo, M., J. L. García-Franco, J. García-Serrano, I. Bladé, and **F. M. Palmeiro**. (2025). [Mechanisms of the QBO influence on the tropical troposphere: modulation by ENSO conditions](https://doi.org/10.1029/2025JD044183). *J. Geophys. Res.: Atmos.* (Accepted).
 * **Palmeiro, F. M.**, P. Hitchcock, and J. García-Serrano. (2025). [Separating Multi-decadal and Interannual dynamics in the Tropical Pacific Ocean and their stratospheric teleconnections](https://doi.org/10.1029/2025GL116639). *Geophysical Research Letters*.
 * Elsbury, D., ..., **F. M. Palmeiro**, et al. (2025). [QBOi El Niño Southern Oscillation experiments: Assessing relationships between ENSO, MJO, and QBO](https://doi.org/10.5194/wcd-2024-34). *Weather Clim. Dyn.*
@@ -21,15 +22,18 @@ title: "Publications"
 * Mezzina, B., **F. M. Palmeiro**, H. Goosse, and J. A. Anstey. (2025). [Impact of stratospheric polar vortex variability on Antarctic sea ice](https://doi.org/10.1007/s00382-024-07548-w). *Climate Dynamics*.
 * Garfinkel, C. I., ..., **F. M. Palmeiro**, et al. (2025). [A process-based evaluation of biases in extratropical stratosphere-troposphere coupling in subseasonal forecast systems](https://doi.org/10.5194/wcd-6-171-2025). *Weather Clim. Dyn.*
 
-**2024**
+#### 2024
+
 * Volpi, D., J. García-Serrano, **F. M. Palmeiro**, L. Gil-Reyes, and R. J. Haarsma. (2024). [Tropical Atlantic variability in EC-EARTH: impact of the radiative forcing](https://doi.org/10.1007/s00382-024-07312-0). *Climate Dynamics*.
 
-**2020 - 2023**
+#### 2020 - 2023
+
 * **Palmeiro, F. M.**, et al. (2023). [On the influence of ENSO on sudden stratospheric warmings](https://doi.org/10.1029/2022JD037607). *JGR: Atmospheres*.
 * **Palmeiro, F. M.**, et al. (2022). [Boreal winter stratospheric climatology: CMIP6 version](https://doi.org/10.1007/s00382-022-06368-0). *Climate Dynamics*.
 * Lawrence, Z. D., ..., **F. M. Palmeiro**, et al. (2022). [Quantifying stratospheric biases and identifying their potential sources in subseasonal prediction systems](https://doi.org/10.5194/wcd-3-977-2022). *Weather Clim. Dyn.*
 
-**2014 - 2019**
+#### 2014 - 2019
+
 * Ayarzagüena, B., **F. M. Palmeiro**, et al. (2019). [On the representation of major stratospheric warmings in reanalyses](https://doi.org/10.5194/acp-19-9469-2019). *ACP*.
 * **Palmeiro, F. M.**, et al. (2017). [The complex behaviour of El Niño winter 2015-2016](https://doi.org/10.1002/2017GL072920). *Geophysical Research Letters*.
 * **Palmeiro, F. M.**, et al. (2015). [Comparing Sudden Stratospheric Warming Definitions in Reanalysis Data](https://doi.org/10.1175/JCLI-D-15-0004.1). *Journal of Climate*.
@@ -38,11 +42,13 @@ title: "Publications"
 ---
 
 ### Reports & Thesis
+
 * Gerber, E. P., ..., **F. M. Palmeiro**, et al. (2021). [Extratropical stratosphere-troposphere coupling](https://doi.org/10.3929/ethz-a-010782163). **S-RIP Final Report**.
 * **Palmeiro, F. M.** (2018). [Sudden Stratospheric Warmings and the Brewer-Dobson Circulation](https://eprints.ucm.es/id/eprint/48270/). **PhD Thesis**, UCM.
 
 <style>
   p { text-align: justify; }
+  ul { text-align: justify; } /* Justifica también las listas */
   a { 
     text-decoration: none; 
     color: inherit; 
