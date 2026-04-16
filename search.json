@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Estudio de la Oscilación Cuasi-Bienal (QBO)",
+    "title": "Dinámica Estratosférica: QBO & Teleconexiones",
     "section": "",
-    "text": "Bienvenida\nEste sitio web presenta los resultados de mi investigación sobre la dinámica estratosférica y las teleconexiones atmosféricas.\n\nObjetivos del proyecto\n\nAnalizar la evolución de la QBO usando datos de ERA5.\nEstudiar la relación con el ENSO y los SSWs.\nVisualizar la línea de viento cero mediante interpolación lineal.\n\n[Image of atmospheric layers and stratosphere]"
+    "text": "El Proyecto\nEste portal interactivo documenta mi investigación sobre la Oscilación Cuasi-Bienal (QBO). El objetivo es desentrañar cómo la variabilidad en la estratosfera tropical modula el clima global a través de teleconexiones complejas.\n\n\n📊 Datos\nUtilizamos el reanálisis ERA5 del ECMWF, procesando décadas de datos de viento zonal y temperatura para identificar patrones de propagación de ondas.\n\n\n🧪 Metodología\nAplicamos técnicas de interpolación lineal para definir el ancho del waveguide y la evolución de la línea de viento cero en el Hemisferio Norte."
   },
   {
     "objectID": "app.html",
