@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Froila-science.github.io/index.html</loc>
-    <lastmod>2026-04-16T22:35:48.402Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Froila-science.github.io/app.html</loc>
-    <lastmod>2026-04-16T22:35:48.402Z</lastmod>
+    <loc>https://Froila-science.github.io/publications.html</loc>
+    <lastmod>2026-04-16T22:37:25.767Z</lastmod>
   </url>
   <url>
     <loc>https://Froila-science.github.io/sd4sp_project.html</loc>
-    <lastmod>2026-04-16T22:35:48.404Z</lastmod>
+    <lastmod>2026-04-16T22:37:25.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Froila-science.github.io/app.html</loc>
+    <lastmod>2026-04-16T22:37:25.767Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Froila-science.github.io/index.html</loc>
+    <lastmod>2026-04-16T22:37:25.767Z</lastmod>
   </url>
 </urlset>
