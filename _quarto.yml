@@ -16,6 +16,14 @@ website:
 
 format:
   html:
-    theme: cosmo  
-    toc: true     
-    code-fold: true # show code
+    theme: 
+      light: cosmo
+      dark: darkly
+    fontsize: 1.1em
+    linestretch: 1.5
+    toc: true
+    toc-depth: 3
+    toc-location: left  # Mueve el índice a la izquierda para que parezca un libro técnico
+    code-copy: true     # Botón para que la gente copie tus fórmulas/código
+    anchor-sections: true
+    smooth-scroll: true
