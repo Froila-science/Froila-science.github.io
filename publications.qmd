@@ -4,12 +4,11 @@ title: "Publications"
 
 ### Manuscripts in Preparation & Under Review
 * **Palmeiro, F. M.**, J. A. Anstey and QBOi co-authors. *QBO-resolving model biases and their impacts on the extratropical teleconnections*. (In preparation).
-* **Palmeiro, F. M.**, A. Sanna, P. A. and S. Gualdi. *The impact of a better solved stratosphere in the CMCC seasonal prediction system*. (In preparation).
+* **Palmeiro, F. M.**, Verónica Martínez-Andradas, A. Sanna, P. A. and S. Gualdi. *The impact of a better solved stratosphere in the CMCC seasonal prediction system*. (In preparation).
 * **Palmeiro, F. M.**, B. Mezzina, and J. García-Serrano. *The ENSO modulation of the 3-dimensional structure of the stratospheric polar vortex*. (To be submitted).
 * Sun, L., **F. M. Palmeiro** and M. Jucker. *Stratosphere Relays El Niño’s Cross-continental Teleconnection from Winter North America to Early-summer Eurasia*.(To be submitted)
 * Blanco-Cabanillas, A., R. K. Scharien, S. E. L. Howell and **F. M. Palmeiro**. *Sea ice regime shifts in Baffin Bay in the context of multi-decadal atmospheric variability*. (Under review).
 * Andrews, M. B., N. Butchart, E. Bednarz, D. Elsbury, **F. M. Palmeiro**, et al. [Extratropical teleconnections in a multi-model ensemble nudged towards the observed QBO](https://wcd.copernicus.org/). *Weather Clim. Dyn.* (Under review).
-* Rodrigo, M., J. L. García-Franco, J. García-Serrano, I. Bladé and **F. M. Palmeiro**. [Mechanisms of the QBO influence on the tropical troposphere: modulation by ENSO conditions](https://agupubs.onlinelibrary.wiley.com/journal/21698996). *J. Geophys. Res.: Atmos.* (Under review).
 
 ---
 
@@ -17,7 +16,7 @@ title: "Publications"
 
 #### 2025
 
-* Rodrigo, M., J. L. García-Franco, J. García-Serrano, I. Bladé, and **F. M. Palmeiro**. (2025). [Mechanisms of the QBO influence on the tropical troposphere: modulation by ENSO conditions](https://doi.org/10.1029/2025JD044183). *J. Geophys. Res.: Atmos.* (Accepted).
+* Rodrigo, M., J. L. García-Franco, J. García-Serrano, I. Bladé, and **F. M. Palmeiro**. (2025). [Mechanisms of the QBO influence on the tropical troposphere: modulation by ENSO conditions](https://doi.org/10.1029/2025JD044183). *J. Geophys. Res.: Atmos.* 
 * **Palmeiro, F. M.**, P. Hitchcock, and J. García-Serrano. (2025). [Separating Multi-decadal and Interannual dynamics in the Tropical Pacific Ocean and their stratospheric teleconnections](https://doi.org/10.1029/2025GL116639). *Geophysical Research Letters*.
 * Elsbury, D., ..., **F. M. Palmeiro**, et al. (2025). [QBOi El Niño Southern Oscillation experiments: Assessing relationships between ENSO, MJO, and QBO](https://doi.org/10.5194/wcd-2024-34). *Weather Clim. Dyn.*
 * Rodrigo, M., ..., **F. M. Palmeiro**. (2025). [Mechanisms of the QBO influence on the tropical troposphere: climatological SST conditions](https://doi.org/10.1029/2024JD041220). *J. Geophys. Res.: Atmos.*
