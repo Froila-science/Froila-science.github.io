@@ -5,7 +5,7 @@ page-layout: full
 
 ::: {.column-screen}
 <iframe
-    src="https://froila-qbo-calculation.hf.space"
+    src="https://froila-ssw.hf.space"
     frameborder="0"
     width="100%"
     height="900"
