@@ -10,57 +10,44 @@ format:
   <hr style="width: 15%; margin: 20px auto; border: 1px solid #3b82f6;">
 </div>
 
-<div style="text-align: center; margin-bottom: 40px;">
-  <img src="IMG_20211114_130528_Bokeh.jpg" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-bottom: 25px; width: 300px; height: 300px; object-fit: cover;">
-  
-  <div style="display: flex; justify-content: center; gap: 30px; font-size: 1.1em;">
-    <span style="display: flex; align-items: center; gap: 8px;">
-      <i class="bi bi-github"></i> <a href="https://github.com/Froila-science" style="text-decoration: none; color: #2c3e50;">GitHub</a>
-    </span>
-    <span style="display: flex; align-items: center; gap: 8px;">
-      <i class="bi bi-envelope"></i> <a href="mailto:froila.palmeiro@csic.es" style="text-decoration: none; color: #2c3e50;">Contact</a>
-    </span>
-    <span style="display: flex; align-items: center; gap: 8px;">
-      <i class="bi bi-mortarboard"></i> <a href="sd4sp_project.qmd" style="text-decoration: none; color: #2c3e50;">Research</a>
-    </span>
-  </div>
-</div>
+::: {style="text-align: center; margin-bottom: 40px;"}
+<img src="IMG_20211114_130528_Bokeh.jpg" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-bottom: 25px; width: 350px; height: 350px; object-fit: cover;">
 
-<div style="max-width: 800px; margin: 0 auto; text-align: justify; line-height: 1.6;">
+::: {style="display: flex; justify-content: center; gap: 30px; font-size: 1.2em;"}
+[<i class="bi bi-github"></i> GitHub](https://github.com/Froila-science){style="text-decoration: none; color: #2c3e50;"}
+[<i class="bi bi-envelope"></i> Contact](mailto:froila.palmeiro@csic.es){style="text-decoration: none; color: #2c3e50;"}
+[<i class="bi bi-mortarboard"></i> Research](sd4sp_project.qmd){style="text-decoration: none; color: #2c3e50;"}
+:::
+:::
 
+::: {style="max-width: 800px; margin: 0 auto; text-align: justify; line-height: 1.6;"}
 I completed my PhD in Physics at the Universidad Complutense de Madrid in 2018. My dissertation was entitled *Sudden Stratospheric Warmings and the Brewer-Dobson Circulation: diagnostics and interactions*. I next expanded my research on stratospheric dynamics and climate modelling at the Barcelona Supercomputing Center and later at the University of Barcelona, where I was also teaching and supervising Master students.
 
 In 2022, I was awarded a **Marie Skłodowska-Curie** global fellowship to join the Euro-Mediterranean Center on Climate Change (CMCC) in Italy and develop my personal project **SD4SP** (Stratospheric Dynamics for Seasonal Prediction), partly at the Canadian Centre for Climate Modelling and Analysis (CCCma) in Victoria, where the outgoing phase of the project was developed. 
 
 I recently joined the **Institute of Geosciences (IGEO) CSIC-UCM** to continue my research on stratosphere-troposphere dynamics, including climate variability and predictability, global circulation patterns and their impacts on the surface as well as their representation in climate models.
-
-</div>
+:::
 
 <br>
 
-::: {.column-page-inset style="max-width: 850px; margin: 40px auto; background-color: #f8f9fa; padding: 30px; border-radius: 15px; border-left: 5px solid #3b82f6;"}
+::: {style="max-width: 850px; margin: 40px auto; background-color: #f8f9fa; padding: 30px; border-radius: 15px; border-left: 5px solid #3b82f6;"}
 
-::: {layout="[70,30]" style="align-items: center; display: flex; flex-wrap: wrap; gap: 20px;"}
-
-::: {#project-text}
 ### [Project SD4SP](sd4sp_project.qmd){style="text-decoration: none; color: #3b82f6;"}
+
 SD4SP is a personal project funded by the European Commission under the **Marie Skłodowska-Curie Actions** (GA-101065820). It aims to disentangle atmospheric teleconnections via the stratosphere to improve seasonal forecasts.
-:::
 
-::: {#project-logos style="display: flex; justify-content: center; gap: 15px;"}
-![](sd4sp_logo_noback.png){height="75px"}
-![](MSCA.png){height="75px"}
-:::
-
+::: {style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;"}
+![](sd4sp_logo_noback.png){height="80px"}
+![](MSCA.png){height="80px"}
 :::
 
 :::
 
 <br>
 
-<div style="text-align: center; margin-bottom: 30px;">
-  <h3 style="color: #2c3e50; font-weight: 600;">Explore my work</h3>
-</div>
+::: {style="text-align: center; margin-bottom: 30px;"}
+### Explore my work
+:::
 
 ::: {layout-ncol="3"}
 ::: {style="text-align: center;"}
