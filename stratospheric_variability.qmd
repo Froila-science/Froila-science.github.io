@@ -56,8 +56,7 @@ Some impactfull events are the following:
 | **Jan 2009** | Split (Historical) | >40 | Persistent NAO- phase |
 | **Dec 2001** | Displacement | ~15 | Moderate cooling |
 
-[A complete list of sudden stratospheric warmings can be found here](ssws.html)
----
+[A complete list of sudden stratospheric warmings can be found here](ssws.html)<br>
 [SSWs can be computed interactively with our tool](ssw_app.qmd)
 
 
@@ -73,8 +72,7 @@ Some impactfull events are the following:
 | **1996/1997** | High | Persistent Westerlies |
 | **1988/1989** | Moderate-High | Milder winter in Mid-latitudes |
 
-[A complete list of strong polar vortex events can be found here](spvs.html)
----
+[A complete list of strong polar vortex events can be found here](spvs.html)<br>
 [SSWs can be computed interactively with our tool](ssw_app.qmd)
 
 
