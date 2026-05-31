@@ -13,9 +13,9 @@ The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coup
 
 ### Theoretical Framework
 
-The figure below summarizes the coupling processes analyzed in this project, focusing on the downward influence of Stratospheric Sudden Warming (SSW) events.
+The figure below summarizes the coupling processes analyzed in this project, considering also the effect of of Stratospheric Sudden Warming (SSW) and Strong Polar Vortex (SPV) events.
 
-![**Figure 1:** Conceptual model of the coupling between the polar vortex and tropospheric circulation.](../assets/images/sd4sp-figure.png){width="80%" fig-align="center"}
+![**Figure 1:** Conceptual model of the coupling between the polar vortex and tropospheric circulation.](sd4sp-figure.png){width="80%" fig-align="center"}
 
 ---
 
