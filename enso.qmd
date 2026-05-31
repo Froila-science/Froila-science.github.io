@@ -1,0 +1,31 @@
+---
+title: "Under Construction"
+format: 
+  html:
+    page-layout: full
+---
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 60vh; text-align: center; font-family: sans-serif;">
+
+  <div style="font-size: 100px; margin-bottom: 20px;">
+    🚧
+  </div>
+
+  <h1 style="color: #2c3e50; font-weight: bold;">Page Under Construction</h1>
+  
+  <p style="font-size: 1.2rem; color: #7f8c8d; max-width: 600px;">
+    We are currently working hard to bring you the best content. 
+    This section of the **SD4SP Project** will be available very soon.
+  </p>
+
+  <div style="margin-top: 30px;">
+    <a href="sd4sp_project.html" style="text-decoration: none; background-color: #3498db; color: white; padding: 10px 25px; border-radius: 5px; font-weight: bold; transition: 0.3s;">
+      ← Return to Home
+    </a>
+  </div>
+
+  <p style="margin-top: 50px; font-size: 0.8rem; color: #bdc3c7; font-style: italic;">
+    SD4SP Project | GA:101065820
+  </p>
+
+</div>
