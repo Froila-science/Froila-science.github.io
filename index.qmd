@@ -24,16 +24,29 @@ In 2022, I was awarded a **Marie Skłodowska-Curie** global fellowship to join t
 My main area of interest is stratosphere-troposphere dynamics, including climate variability and predictability, global circulation patterns and their impacts on the surface as well as their representation in climate models.
 ---
 
+---
+
 ### [SD4SP: Stratospheric Dynamics for Seasonal Prediction](sd4sp_project.qmd){style="text-decoration: none; color: inherit;"}
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: center; gap: 30px; margin-top: 20px;">
+  <div style="flex: 2; text-align: justify;">
     SD4SP is a personal project funded by the European Commission in the **Marie Skłodowska-Curie Actions** framework under GA-101065820. It aims to disentangle the mechanisms of atmospheric teleconnections via the stratosphere in order to improve seasonal forecasts.
   </div>
-  <img src="sd4sp_logo_noback.png" width="150px">
+  
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <img src="sd4sp_logo_noback.png" width="140px" alt="SD4SP Logo">
+    <img src="MSCA.png" width="140px" alt="MSCA Logo">
+  </div>
 </div>
 
 <style>
+  p {
+    text-align: justify;
+  }
+  .about-entity {
+    padding-right: 30px;
+  }
+</style>
   p {
     text-align: justify;
   }
@@ -42,3 +55,28 @@ My main area of interest is stratosphere-troposphere dynamics, including climate
     padding-right: 20px;
   }
 </style>
+
+---
+### Explore my work
+
+::: {layout-ncol="3"}
+
+#### [Publications](publications.qmd)
+[![](publications.png){width="100%"}](publications.qmd)
+*List of peer-reviewed articles and others.*
+
+#### [Software](https://github.com/Froila-science)
+[![](software.png){width="100%"}](https://github.com/Froila-science)
+*Open-source tools and climate analysis scripts on GitHub.*
+
+#### [Scientific Questions](sd4sp_project.qmd)
+[![](scientific_questions.png){width="100%"}](sd4sp_project.qmd)
+*Research Topics.*
+
+:::
+
+---
+
+<p style="text-align: center; color: #888; font-style: italic; font-size: 0.9rem;">
+  More results to come soon...
+</p>
