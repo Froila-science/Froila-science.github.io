@@ -4,77 +4,64 @@ subtitle: "Climate Researcher"
 image: IMG_20211114_130528_Bokeh.jpg
 about:
   template: trestles
+  image-width: 20em
   image-shape: rounded
   links:
     - icon: github
       text: GitHub
       href: https://github.com/Froila-science
     - icon: mortarboard
-      text: Research Topics
-      href: sd4sp_project.qmd
+      text: ResearchGate
     - icon: envelope
       text: Contact
       href: mailto:froila.palmeiro@csic.es
 ---
+
+### Bio
 
 I completed my PhD in Physics at the Universidad Complutense de Madrid in 2018. My dissertation was entitled *Sudden Stratospheric Warmings and the Brewer-Dobson Circulation: diagnostics and interactions*. I next expanded my research on stratospheric dynamics and climate modelling at the Barcelona Supercomputing Center and later at the University of Barcelona, where I was also teaching and supervising Master students.
 
 In 2022, I was awarded a **Marie Skłodowska-Curie** global fellowship to join the Euro-Mediterranean Center on Climate Change (CMCC) in Italy and develop my personal project **SD4SP** (Stratospheric Dynamics for Seasonal Prediction), partly at the Canadian Centre for Climate Modelling and Analysis (CCCma) in Victoria, where the outgoing phase of the project was depeloped. SD4SP aims to understand and quantify the role of El Niño Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) as sources of predictability in seasonal forecasting.
 
 I recently joined the Institute of Geosciences (IGEO) CSIC-UCM to continue my research on stratosphere-troposphere dynamics, including climate variability and predictability, global circulation patterns and their impacts on the surface as well as their representation in climate models.
----
+<br>
 
 ---
 
-### [SD4SP: Stratospheric Dynamics for Seasonal Prediction](sd4sp_project.qmd){style="text-decoration: none; color: inherit;"}
-
-<div style="display: flex; align-items: center; gap: 30px; margin-top: 20px;">
-  <div style="flex: 2; text-align: justify;">
-    SD4SP is a personal project funded by the European Commission in the **Marie Skłodowska-Curie Actions** framework under GA-101065820. It aims to disentangle the mechanisms of atmospheric teleconnections via the stratosphere in order to improve seasonal forecasts.
-  </div>
-  
-  <div style="flex: 1; display: flex; flex-direction: row; align-items: center; gap: 15px;">
-    <img src="sd4sp_logo_noback.png" width="140px" alt="SD4SP Logo">
-    <img src="MSCA.png" width="140px" alt="MSCA Logo">
-  </div>
-</div>
-
-<style>
-  p {
-    text-align: justify;
-  }
-  .about-entity {
-    padding-right: 30px;
-  }
-</style>
-  p {
-    text-align: justify;
-  }
-  /* Ajustar el ancho de la foto si queda muy estrecha */
-  .about-entity {
-    padding-right: 20px;
-  }
-</style>
-
----
+### Explore my work
 
 ::: {layout-ncol="3"}
 
 #### [Publications](publications.qmd)
-[![](publications.png){width="100%"}](publications.qmd)
-*List of peer-reviewed articles and others.*
+[![](images/publications.png){width="100%"}](publications.qmd)
 
 #### [Software](https://github.com/Froila-science)
-[![](software.png){width="100%"}](https://github.com/Froila-science)
-*Open-source tools and climate analysis scripts on GitHub.*
+[![](images/software.png){width="100%"}](https://github.com/Froila-science)
 
-#### [Scientific Questions](sd4sp_project.qmd)
-[![](scientific_questions.png){width="100%"}](sd4sp_project.qmd)
-*Research Topics.*
+#### [Scientific questions](sd4sp_project.qmd)
+[![](images/scientific_questions.png){width="100%"}](sd4sp_project.qmd)
 
 :::
 
+<br>
+
 ---
+
+### [SD4SP Project](sd4sp_project.qmd){style="text-decoration: none;"}
+
+<div style="display: flex; align-items: center; gap: 25px;">
+  <div style="flex: 2;">
+    SD4SP is a personal project funded by the European Commission in the **Marie Skłodowska-Curie Actions** framework (GA-101065820). It aims to disentangle the mechanisms of atmospheric teleconnections via the stratosphere to improve seasonal forecasts.
+  </div>
+  <div style="flex: 1; display: flex; gap: 10px; justify-content: center;">
+    <img src="sd4sp_logo_noback.png" width="100px">
+    <img src="MSCA.png" width="100px">
+  </div>
+</div>
+
+<style>
+  p { text-align: justify; }
+</style>
 
 <p style="text-align: center; color: #888; font-style: italic; font-size: 0.9rem;">
   More results to come soon...
