@@ -9,7 +9,7 @@ format:
 
 ## Project Overview
 
-The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of ENSO and the QBO over the North Atlantic - European (NAE) region through their teleconnection via the stratospehere. The aim of SD4SP is to identify this mechanims to improve their representation in climate models.
+The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of ENSO and the QBO over the  [North Atlantic - European (NAE)](nae.html) region through their teleconnection via the stratospehere. The aim of SD4SP is to identify this mechanims to improve their representation in climate models.
 
 ### Theoretical Framework
 
@@ -30,7 +30,7 @@ This tool identifies SSW events based on multiple wind reversal criteria (U5570,
 ```{=html}
 <iframe src="[https://froila-ssw.hf.space](https://froila-ssw.hf.space)" width="100%" height="900px" style="border:1px solid #dee2e6; border-radius: 8px;"></iframe>
 
-### 🌪️ QBO diagnostics
+### 📈 QBO diagnostics
 This tool computes and plots the QBO winds and its index. 
 
 </iframe>
