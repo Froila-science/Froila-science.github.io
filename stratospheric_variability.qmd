@@ -18,7 +18,7 @@ The **Stratospheric Polar Vortex** is a large-scale cyclone of low-pressure cold
 The strength of this vortex is a key driver of winter weather in the Northern Hemisphere. A strong, stable vortex tends to keep cold Arctic air bottled up at high latitudes, while a weak or disturbed vortex allows that cold air to spill southward into Europe and North America.
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin: 30px 0; background-color: #fcfcfc; padding: 20px; border-radius: 12px; border: 1px solid #eee;">
-  ![**Animation:** Daily evolution and life cycle of the Stratospheric Polar Vortex from September to March.](polar_vortex_evolution.GIF){width="85%"}
+  ![**Animation:** Daily evolution and life cycle of the Stratospheric Polar Vortex from September to March.](vortex.gif){width="85%"}
   <p style="font-size: 0.9rem; color: #666; font-style: italic;">Evolution of the stratospheric polar vortex during a typical winter season.</p>
 </div>
 
@@ -34,7 +34,7 @@ A **Sudden Stratospheric Warming** is one of the most dramatic events in the atm
     The critical aspect for seasonal prediction is the **downward propagation**. When the stratospheric vortex breaks down or weakens significantly, the anomalies can migrate down to the troposphere, often shifting the North Atlantic storm track southwards and inducing a negative phase of the NAO.
   </div>
   <div style="flex: 1;">
-    ![**Figure 2:** Stratospheric-tropospheric coupling during SSWs.](downward_propagation.PNG){width="100%"}
+    ![Stratospheric-tropospheric coupling during SSWs.](downward_propagation.png){width="100%"}
   </div>
 </div>
 
@@ -57,6 +57,7 @@ Some impactfull events are the following:
 | **Dec 2001** | Displacement | ~15 | Moderate cooling |
 
 [A complete list of sudden stratospheric warmings can be found here](ssws.html)
+---
 [SSWs can be computed interactively with our tool](ssw_app.qmd)
 
 
@@ -73,6 +74,7 @@ Some impactfull events are the following:
 | **1988/1989** | Moderate-High | Milder winter in Mid-latitudes |
 
 [A complete list of strong polar vortex events can be found here](spvs.html)
+---
 [SSWs can be computed interactively with our tool](ssw_app.qmd)
 
 
