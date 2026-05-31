@@ -1,6 +1,6 @@
 ---
 title: "Stratospheric Variability & SSW Definitions"
-subtitle: "Comparative Analysis of U5570_11M, U65, and U60 Criteria"
+subtitle: "Observed SSWs from Nov 1950 to March 2021 using seval criteria"
 format:
   html:
     page-layout: full
@@ -16,6 +16,7 @@ format:
 This section compares SSW onset dates across three different definitions. Even when dates vary slightly due to atmospheric lag, they often represent the same physical event.
 U5570_11M: Zonal-mean zonal wind reversals at any latitude between 55-70N and 10 hPa. Final warmings events occurring earlier than 11 March are considered as SSWs because they share similar dynamical impacts [Palmeiro et al., 2017](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL072920){target="_blank"} 
 U65 and U60 correspond to the traditional definition in [Charlton and Polvani, 2007](https://journals.ametsoc.org/view/journals/clim/20/3/jcli3996.1.xml) but using 65 N or 60 N respectively. 
+
 ### Comparative Event Table
 
 | Event # | U5570_11M | U65 | U60 |
