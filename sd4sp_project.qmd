@@ -9,7 +9,7 @@ format:
 
 ## Project Overview
 
-The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of El Niño – Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) over the  [North Atlantic – European (NAE)](nae.html) region through their teleconnection via the stratospehere. The aim of SD4SP is to identify this mechanims to improve their representation in climate models.
+The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of El Niño – Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) over the  [North Atlantic – European (NAE) region](nae.html) through their teleconnection via the stratospehere. The aim of SD4SP is to identify this mechanims to improve their representation in climate models.
 
 The figure below summarizes the coupling processes analyzed in this project, considering also the effect of of Stratospheric Sudden Warming (SSW) and Strong Polar Vortex (SPV) events.
 
@@ -27,6 +27,38 @@ Click on the links below to access our specialized interactive tools. Each appli
 * ### [📈 QBO Analysis Tool](app.html)
     Interactive dashboard to explore the Quasi-Biennial Oscillation phases and its relationship with the polar vortex.
 
-<p style="text-align: center; color: #888; font-style: italic; margin-top: 30px; margin-bottom: 30px;">
+## Research Topics
+
+::: {layout-row="3"}
+::: {layout-ncol="2"}
+
+### [North Atlantic European (NAE)](nae.qmd)
+[![](nae.png){width="100%" group="topics"}](nae.qmd)
+*Exploring regional climate variability and storm tracks.*
+
+### [Stratospheric Sudden Warmings (SSW)](ssws.qmd)
+[![](vortex2.png){width="100%" group="topics"}](stratospheric_variability.qmd)
+*Analysis of extreme stratospheric polar vortex breakdowns.*
+
+### [ENSO](enso.qmd)
+[![](enso_thumb.png){width="100%" group="topics"}](enso.qmd)
+*El Niño – Southern Oscillation and its remote impacts.*
+
+### [Polar Vortex](stratospheric_variability.qmd)
+[![](vortex3d.png){width="100%" group="topics"}](stratospheric_variability.qmd)
+*Dynamics of the winter stratospheric polar jet.*
+
+### [QBO](qbo.qmd)
+[![](qbo.PNG){width="100%" group="topics"}](qbo.qmd)
+*The Quasi-Biennial Oscillation and its tropical-extratropical coupling.*
+
+### [Teleconnections](teleconnections.qmd)
+[![](telco.png){width="100%" group="topics"}](teleconnections.qmd)
+*Atmospheric bridges connecting different regions of the climate system.*
+
+:::
+:::
+
+<p style="text-align: center; color: #888; font-style: italic; margin-top: 30px;">
   More results to come soon...
 </p>
