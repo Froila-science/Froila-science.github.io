@@ -17,19 +17,19 @@ The **Stratospheric Polar Vortex** is a large-scale cyclone of low-pressure cold
 
 The strength of this vortex is a key driver of winter weather in the Northern Hemisphere. A strong, stable vortex tends to keep cold Arctic air bottled up at high latitudes, while a weak or disturbed vortex allows that cold air to spill southward into Europe and North America.
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin: 30px 0; background-color: #fcfcfc; padding: 20px; border-radius: 12px; border: 1px solid #eee;">
-  ![**Animation:** Daily evolution and life cycle of the Stratospheric Polar Vortex from September to March.](vortex.gif){width="85%"}
-  <p style="font-size: 0.9rem; color: #666; font-style: italic;">Evolution of the stratospheric polar vortex during a typical winter season.</p>
-</div>
+::: {style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin: 30px 0; background-color: #fcfcfc; padding: 20px; border-radius: 12px; border: 1px solid #eee;"}
+![**Animation:** Daily evolution and life cycle of the Stratospheric Polar Vortex from September to March.](vortex.gif){width="85%"}
+*Evolution of the stratospheric polar vortex during a typical winter season.*
+:::
 
 ---
+
 ## Sudden Stratospheric Warmings (SSW)
 
 A **Sudden Stratospheric Warming** is one of the most dramatic events in the atmosphere. In just a few days, the polar stratospheric temperature can increase tens of K, and the strong westerly winds of the polar vortex typically reverse to easterly.
 
-::: {.column-screen-inset}
 ::: {.callout-note appearance="simple" icon=false}
-## {{< bi arrow-down-circle >}} Downward Propagation
+## ⬇️ Downward Propagation
 
 ::: {layout="[65,35]" style="align-items: center;"}
 
@@ -48,9 +48,9 @@ This process often:
 
 :::
 :::
-:::
 
 ---
+
 ## Some remarkable events
 
 Below are the historical records of the most significant events analyzed in the **SD4SP** project, categorized by their nature.
@@ -67,10 +67,8 @@ Some impactfull events are the following:
 | **Jan 2009** | Split (Historical) | >40 | Persistent NAO- phase |
 | **Dec 2001** | Displacement | ~15 | Moderate cooling |
 
-[A complete list of sudden stratospheric warmings can be found here](ssws.html){style="text-decoration: none; color: #2c3e50;"}<br>
+[A complete list of sudden stratospheric warmings can be found here](ssws.qmd){style="text-decoration: none; color: #2c3e50;"}<br>
 [SSWs can be computed interactively with our tool](ssw_app.qmd){style="text-decoration: none; color: #2c3e50;"}
-
-
 
 ### 🌀 Strong Polar Vortex (SPV) Events
 Unlike SSWs, these events represent an exceptionally strong and cold polar vortex, often leading to a very positive NAO phase and milder, stormier winters in Northern Europe.
@@ -83,9 +81,8 @@ Some impactfull events are the following:
 | **1996/1997** | High | Persistent Westerlies |
 | **1988/1989** | Moderate-High | Milder winter in Mid-latitudes |
 
-[A complete list of strong polar vortex events can be found here](spvs.html){style="text-decoration: none; color: #2c3e50;"}<br>
+[A complete list of strong polar vortex events can be found here](spvs.qmd){style="text-decoration: none; color: #2c3e50;"}<br>
 [SSWs can be computed interactively with our tool](ssw_app.qmd){style="text-decoration: none; color: #2c3e50;"}
-
 
 ---
 
@@ -93,10 +90,8 @@ Some impactfull events are the following:
 
 Understanding the lifecycle of these events is key to our research. While **SSWs** often lead to atmospheric "blocking" and cold air outbreaks, **Strong Polar Vortex** events tend to "trap" the cold air at the pole, strengthening the jet stream and bringing warmer, wetter weather to Western Europe.
 
-
-
 ---
 
-<div style="text-align: center; margin-top: 50px; padding: 20px; border-top: 1px solid #eee;">
-  *Data derived from ERA5 Reanalysis and analyzed within the SD4SP framework.*
-</div>
+::: {style="text-align: center; margin-top: 50px; padding: 20px; border-top: 1px solid #eee; color: #666; font-style: italic;"}
+*Data derived from ERA5 Reanalysis and analyzed within the SD4SP framework.*
+:::
