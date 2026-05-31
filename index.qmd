@@ -4,69 +4,69 @@ format:
     page-layout: full
 ---
 
-<div style="text-align: center; margin-bottom: 40px;">
-  <h1 style="font-size: 3em; font-weight: 700; color: #2c3e50; margin-bottom: 0;">Froila M. Palmeiro</h1>
-  <p style="font-size: 1.5em; color: #666; font-style: italic;">Climate Researcher</p>
-  <hr style="width: 20%; margin: 20px auto; border: 1px solid #3b82f6;">
-</div>
-
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-4 style="text-align: center; border-right: 1px solid #eee; padding-right: 20px;"}
-![](IMG_20211114_130528_Bokeh.jpg){style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-bottom: 20px;" width="80%"}
+::: {.g-col-12 .g-col-md-4 style="text-align: center; padding-top: 20px;"}
+![](IMG_20211114_130528_Bokeh.jpg){style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" width="80%"}
 
-<div style="text-align: left; display: inline-block;">
-<ul style="list-style: none; padding: 0; font-size: 1.1em;">
-  <li style="margin-bottom: 15px;">
+<div style="text-align: left; display: inline-block; margin-top: 20px;">
+<ul style="list-style: none; padding: 0; font-size: 1em;">
+  <li style="margin-bottom: 10px;">
     <i class="bi bi-github"></i> <a href="https://github.com/Froila-science" style="text-decoration: none; color: #2c3e50;">GitHub</a>
   </li>
-  <li style="margin-bottom: 15px;">
+  <li style="margin-bottom: 10px;">
     <i class="bi bi-envelope"></i> <a href="mailto:froila.palmeiro@csic.es" style="text-decoration: none; color: #2c3e50;">Contact</a>
   </li>
-  <li style="margin-bottom: 15px;">
+  <li style="margin-bottom: 10px;">
     <i class="bi bi-mortarboard"></i> <a href="sd4sp_project.qmd" style="text-decoration: none; color: #2c3e50;">Research Topics</a>
   </li>
 </ul>
 </div>
-
-<div style="margin-top: 30px; display: flex; justify-content: center; gap: 15px;">
-  <img src="sd4sp_logo_noback.png" width="80px">
-  <img src="MSCA.png" width="80px">
-</div>
 :::
 
 ::: {.g-col-12 .g-col-md-8 style="padding-left: 20px;"}
+<h1 style="font-size: 2.2em; font-weight: 700; color: #2c3e50; margin-bottom: 5px;">Froila M. Palmeiro</h1>
+<p style="font-size: 1.2em; color: #666; font-style: italic; margin-bottom: 25px;">Climate Researcher</p>
 
 I completed my PhD in Physics at the Universidad Complutense de Madrid in 2018. My dissertation was entitled *Sudden Stratospheric Warmings and the Brewer-Dobson Circulation: diagnostics and interactions*. I next expanded my research on stratospheric dynamics and climate modelling at the Barcelona Supercomputing Center and later at the University of Barcelona, where I was also teaching and supervising Master students.
 
 In 2022, I was awarded a **Marie Skłodowska-Curie** global fellowship to join the Euro-Mediterranean Center on Climate Change (CMCC) in Italy and develop my personal project **SD4SP** (Stratospheric Dynamics for Seasonal Prediction), partly at the Canadian Centre for Climate Modelling and Analysis (CCCma) in Victoria, where the outgoing phase of the project was developed. 
 
 I recently joined the **Institute of Geosciences (IGEO) CSIC-UCM** to continue my research on stratosphere-troposphere dynamics, including climate variability and predictability, global circulation patterns and their impacts on the surface as well as their representation in climate models.
-
-::: {.callout-note appearance="simple" icon=false style="background-color: #f8f9fa;"}
-### [Project SD4SP](sd4sp_project.qmd){style="text-decoration: none; color: #3b82f6;"}
-SD4SP is a personal project funded by the European Commission under the **Marie Skłodowska-Curie Actions** (GA-101065820). It aims to disentangle atmospheric teleconnections via the stratosphere to improve seasonal forecasts.
 :::
 
 :::
 
-:::
+<div style="margin-top: 40px; background-color: #f8f9fa; padding: 30px; border-radius: 15px; border-left: 5px solid #3b82f6;">
+  <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+    <div style="flex: 2; min-width: 300px;">
+      <h3 style="margin-top: 0;"><a href="sd4sp_project.qmd" style="text-decoration: none; color: #3b82f6;">Project SD4SP</a></h3>
+      <p style="text-align: justify; margin-bottom: 0;">
+        SD4SP is a personal project funded by the European Commission under the **Marie Skłodowska-Curie Actions** (GA-101065820). It aims to disentangle atmospheric teleconnections via the stratosphere to improve seasonal forecasts.
+      </p>
+    </div>
+    <div style="flex: 1; display: flex; justify-content: center; gap: 20px; min-width: 200px;">
+      <img src="sd4sp_logo_noback.png" height="80px">
+      <img src="MSCA.png" height="80px">
+    </div>
+  </div>
+</div>
 
 <br><br>
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <h3 style="color: #2c3e50;">Explore my work</h3>
+  <h3 style="color: #2c3e50; font-weight: 600;">Explore my work</h3>
 </div>
 
 ::: {layout-ncol="3"}
 ::: {style="text-align: center;"}
 #### [Publications](publications.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](publications.png)](publications.qmd)
+[![](images/publications.png)](publications.qmd)
 :::
 
 ::: {style="text-align: center;"}
 #### [Software](https://github.com/Froila-science){style="text-decoration: none; color: #2c3e50;"}
-[![](software.png)](https://github.com/Froila-science)
+[![](images/software.png)](https://github.com/Froila-science)
 :::
 
 ::: {style="text-align: center;"}
@@ -74,7 +74,6 @@ SD4SP is a personal project funded by the European Commission under the **Marie 
 [![](scientific_questions.png)](sd4sp_project.qmd)
 :::
 :::
-
 
 <p style="text-align: center; color: #888; font-style: italic; font-size: 0.9rem;">
   More results to come soon...
