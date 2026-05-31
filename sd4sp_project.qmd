@@ -21,10 +21,10 @@ The figure below summarizes the coupling processes analyzed in this project, con
 
 Click on the links below to access our specialized interactive tools. Each application will open in a dedicated page for a better analysis experience:
 
-* ### [🌪️ SSW Diagnostic Tool](ssw-app.html)
+* ### [🌪️ SSW Diagnostic Tool](ssw-app.html){style="text-decoration: none; color: #2c3e50;"}
     Full-page tool to identify Sudden Stratospheric Warming events and analyze their downward propagation.
 
-* ### [📈 QBO Analysis Tool](app.html)
+* ### [📈 QBO Analysis Tool](app.html){style="text-decoration: none; color: #2c3e50;"}
     Interactive dashboard to explore the Quasi-Biennial Oscillation phases and its relationship with the polar vortex.
 
 ## Research Topics
@@ -32,27 +32,27 @@ Click on the links below to access our specialized interactive tools. Each appli
 ::: {layout-row="3"}
 ::: {layout-ncol="2"}
 
-### [North Atlantic European (NAE)](nae.qmd)
-[![](nae.png){width="100%" group="topics"}](nae.qmd)
+### [North Atlantic European (NAE)](nae.qmd){style="text-decoration: none; color: #2c3e50;"}
+[![](NAE.png){width="100%" group="topics"}](nae.qmd)
 *Exploring regional climate variability and storm tracks.*
 
-### [Stratospheric Sudden Warmings (SSW)](ssws.qmd)
+### [Stratospheric Sudden Warmings (SSW)](ssws.qmd){style="text-decoration: none; color: #2c3e50;"}
 [![](vortex2.png){width="100%" group="topics"}](stratospheric_variability.qmd)
 *Analysis of extreme stratospheric polar vortex breakdowns.*
 
-### [ENSO](enso.qmd)
-[![](enso_thumb.png){width="100%" group="topics"}](enso.qmd)
+### [ENSO](enso.qmd){style="text-decoration: none; color: #2c3e50;"}
+[![](enso.png){width="100%" group="topics"}](enso.qmd)
 *El Niño – Southern Oscillation and its remote impacts.*
 
-### [Polar Vortex](stratospheric_variability.qmd)
+### [Polar Vortex](stratospheric_variability.qmd){style="text-decoration: none; color: #2c3e50;"}
 [![](vortex3d.png){width="100%" group="topics"}](stratospheric_variability.qmd)
 *Dynamics of the winter stratospheric polar jet.*
 
-### [QBO](qbo.qmd)
+### [QBO](qbo.qmd){style="text-decoration: none; color: #2c3e50;"}
 [![](qbo.PNG){width="100%" group="topics"}](qbo.qmd)
 *The Quasi-Biennial Oscillation and its tropical-extratropical coupling.*
 
-### [Teleconnections](teleconnections.qmd)
+### [Teleconnections](teleconnections.qmd){style="text-decoration: none; color: #2c3e50;"}
 [![](telco.png){width="100%" group="topics"}](teleconnections.qmd)
 *Atmospheric bridges connecting different regions of the climate system.*
 
