@@ -1,7 +1,7 @@
 ---
 title: "Why NAE?"
 subtitle: "Regional Impacts and Dynamics"
-format: 
+format:
   html:
     page-layout: full
     toc: true
@@ -10,16 +10,25 @@ format:
 [← Back to Project Overview](sd4sp_project.html)
 
 ---
+
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 2;">
-    ## 1. Connecting weather patterns and extremes
-    This region experiences significant climate variability, such as the North Atlantic Oscillation (NAO) and the Atlantic Meridional Overturning Circulation (AMOC). These phenomena influence temperature, precipitation, storm patterns, and droughts, which are essential for understanding the potential for extreme weather events like heatwaves, flooding, and cold spells.
-    
-    Studying these patterns helps predict how such extreme events will evolve with climate change.
-  </div>
-  <div style="flex: 1; margin-top: 50px;">
-    ![](NAE_region.png){width="100%"}
-  </div>
+
+<div style="flex: 2;">
+
+## 1. Connecting weather patterns and extremes
+
+This region experiences significant climate variability, such as the North Atlantic Oscillation (NAO) and the Atlantic Meridional Overturning Circulation (AMOC). These phenomena influence temperature, precipitation, storm patterns, and droughts, which are essential for understanding the potential for extreme weather events like heatwaves, flooding, and cold spells.
+
+Studying these patterns helps predict how such extreme events will evolve with climate change.
+
+</div>
+
+<div style="flex: 1; margin-top: 50px;">
+
+![](NAE.png){width="100%"}
+
+</div>
+
 </div>
 
 ## Impacts on Ecosystems and Biodiversity
@@ -60,9 +69,18 @@ The region's strong reliance on international trade, particularly maritime trade
 ---
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
-    Finally, and very importantly, because I am from Galicia, the Northwesternmost region on the Iberian Peninsula, highly exposed to storm tracks and North Atlantic variability. It is therefore a place of constant change, with storms and varying weather patterns influenced by the Atlantic weather systems.   </div>
-  <div style="flex: 1;">
-    ![**Figure:** Seafront promenade in Foz, Lugo, in a not-so-frequently sunny day.](foz.png){width="100%"}
-  </div>
+
+<div style="flex: 1;">
+
+### A Personal Connection
+Finally, and very importantly, because I am from Galicia, the Northwesternmost region on the Iberian Peninsula, highly exposed to storm tracks and North Atlantic variability. It is therefore a place of constant change, with storms and varying weather patterns influenced by the Atlantic weather systems.
+
+</div>
+
+<div style="flex: 1;">
+
+![**Figure:** Seafront promenade in Foz, Lugo, on a not-so-frequently sunny day.](fozz.JPG){width="100%"}
+
+</div>
+
 </div>
