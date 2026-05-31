@@ -21,18 +21,10 @@ The figure below summarizes the coupling processes analyzed in this project, foc
 
 ## Interactive Diagnostic Tools
 
-::: {.panel-tabset}
+Click on the links below to access our specialized interactive tools. Each application will open in a dedicated page for a better analysis experience:
 
-### 🌪️ SSW Diagnostic Tool
-This tool identifies SSW events based on multiple wind reversal criteria (U5570, U160, etc.) and visualizes their impact on different surface variables. A list of SSW dates is also provided for downloading.
+* ### [🌪️ SSW Diagnostic Tool](ssw-app.html)
+    Full-page tool to identify Sudden Stratospheric Warming events and analyze their downward propagation.
 
-</iframe>
-```{=html}
-<iframe src="[https://froila-ssw.hf.space](https://froila-ssw.hf.space)" width="100%" height="900px" style="border:1px solid #dee2e6; border-radius: 8px;"></iframe>
-
-### 📈 QBO diagnostics
-This tool computes and plots the QBO winds and its index. 
-
-</iframe>
-```{=html}
-<iframe src="[https://froila-qbo-calculation.hf.space](https://froila-qbo-calculation.hf.space)" width="100%" height="900px" style="border:1px solid #dee2e6; border-radius: 8px;"></iframe>
+* ### [📈 QBO Analysis Tool](app.html)
+    Interactive dashboard to explore the Quasi-Biennial Oscillation phases and its relationship with the polar vortex.
