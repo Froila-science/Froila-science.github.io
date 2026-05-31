@@ -1,6 +1,6 @@
 ---
 title: "Project SD4SP"
-subtitle: "Stratospheric Dynamics for Surface Prediction"
+subtitle: "Stratospheric Dynamics for Seasonal Prediction"
 format: 
   html:
     page-layout: full
@@ -9,7 +9,7 @@ format:
 
 ## Project Overview
 
-The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coupling. By analyzing planetary wave activity and the vertical propagation of zonal wind anomalies, we aim to improve predictability at sub-seasonal to seasonal scales.
+The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of ENSO and the QBO over the North Atlantic - European (NAE) region through their teleconnection via the stratospehere. The aim of SD4SP is to identify this mechanims to improve their representation in climate models.
 
 ### Theoretical Framework
 
@@ -21,17 +21,18 @@ The figure below summarizes the coupling processes analyzed in this project, foc
 
 ## Interactive Diagnostic Tools
 
-We have developed two specialized applications to analyze these dynamics. You can interact with them directly below.
-
 ::: {.panel-tabset}
 
 ### 🌪️ SSW Diagnostic Tool
-This tool identifies SSW events based on multiple wind reversal criteria (U60, U1060, etc.) and visualizes their impact on surface temperature and pressure.
+This tool identifies SSW events based on multiple wind reversal criteria (U5570, U160, etc.) and visualizes their impact on different surface variables. A list of SSW dates is also provided for downloading.
 
-```{=html}
-<iframe 
-    src="https://froila-ssw.hf.space"" 
-    width="100%" 
-    height="900px" 
-    style="border:1px solid #dee2e6; border-radius: 8px;">
 </iframe>
+```{=html}
+<iframe src="[https://froila-ssw.hf.space](https://froila-ssw.hf.space)" width="100%" height="900px" style="border:1px solid #dee2e6; border-radius: 8px;"></iframe>
+
+### 🌪️ QBO diagnostics
+This tool computes and plots the QBO winds and its index. 
+
+</iframe>
+```{=html}
+<iframe src="[https://froila-qbo-calculation.hf.space](https://froila-qbo-calculation.hf.space)" width="100%" height="900px" style="border:1px solid #dee2e6; border-radius: 8px;"></iframe>
