@@ -23,23 +23,34 @@ The strength of this vortex is a key driver of winter weather in the Northern He
 </div>
 
 ---
-
 ## Sudden Stratospheric Warmings (SSW)
 
-A **Sudden Stratospheric Warming** is one of the most dramatic events in the atmosphere. In just a few days, the polar stratospheric temperature can increase by more than 50 K, and the strong westerly winds of the polar vortex can reverse to easterly.
+A **Sudden Stratospheric Warming** is one of the most dramatic events in the atmosphere. In just a few days, the polar stratospheric temperature can increase tens of K, and the strong westerly winds of the polar vortex typically reverse to easterly.
 
-<div style="display: flex; align-items: center; gap: 20px; background-color: #f8f9fa; padding: 20px; border-radius: 10px; border: 1px solid #dee2e6;">
-  <div style="flex: 2;">
-    ### Downward Propagation
-    The critical aspect for seasonal prediction is the **downward propagation**. When the stratospheric vortex breaks down or weakens significantly, the anomalies can migrate down to the troposphere, often shifting the North Atlantic storm track southwards and inducing a negative phase of the NAO.
-  </div>
-  <div style="flex: 1;">
-    ![Stratospheric-tropospheric coupling during SSWs.](downward_propagation.png){width="100%"}
-  </div>
-</div>
+::: {.column-screen-inset}
+::: {.callout-note appearance="simple" icon=false}
+## {{< bi arrow-down-circle >}} Downward Propagation
+
+::: {layout="[65,35]" style="align-items: center;"}
+
+::: {#desc-text}
+The critical aspect for seasonal prediction is the **downward propagation**. When the stratospheric vortex breaks down or weakens significantly, the anomalies can extend through the lower stratosphere and the troposphere. 
+
+This process often:
+* Shifts the North Atlantic storm track southwards.
+* Induces a **negative phase of the NAO** (North Atlantic Oscillation).
+* Results in severe cold outbreaks in Europe and North America.
+:::
+
+::: {#desc-img}
+![Stratospheric-tropospheric coupling during SSWs.](downward_propagation.png){width="100%" .border .rounded}
+:::
+
+:::
+:::
+:::
 
 ---
-
 ## Some remarkable events
 
 Below are the historical records of the most significant events analyzed in the **SD4SP** project, categorized by their nature.
