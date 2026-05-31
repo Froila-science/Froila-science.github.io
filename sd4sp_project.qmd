@@ -9,13 +9,11 @@ format:
 
 ## Project Overview
 
-The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of ENSO and the QBO over the  [North Atlantic - European (NAE)](nae.html) region through their teleconnection via the stratospehere. The aim of SD4SP is to identify this mechanims to improve their representation in climate models.
-
-### Theoretical Framework
+The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of El Niño – Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) over the  [North Atlantic – European (NAE)](nae.html) region through their teleconnection via the stratospehere. The aim of SD4SP is to identify this mechanims to improve their representation in climate models.
 
 The figure below summarizes the coupling processes analyzed in this project, considering also the effect of of Stratospheric Sudden Warming (SSW) and Strong Polar Vortex (SPV) events.
 
-![**Figure 1:** Conceptual model of the coupling between the polar vortex and tropospheric circulation.](sd4sp-figure.png){width="80%" fig-align="center"}
+![Conceptual model of the coupling between the polar vortex and tropospheric circulation.](sd4sp-figure.png){width="80%" fig-align="center"}
 
 ---
 
@@ -28,3 +26,7 @@ Click on the links below to access our specialized interactive tools. Each appli
 
 * ### [📈 QBO Analysis Tool](app.html)
     Interactive dashboard to explore the Quasi-Biennial Oscillation phases and its relationship with the polar vortex.
+
+<p style="text-align: center; color: #888; font-style: italic; margin-top: 30px; margin-bottom: 30px;">
+  More results to come soon...
+</p>
