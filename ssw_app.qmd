@@ -1,8 +1,14 @@
-<iframe 
-    src="[https://froila-ssw.hf.space](https://froila-ssw.hf.space)" 
-    width="100%" 
-    height="1000px" 
-    style="border: 1px solid #dee2e6; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-</iframe>
+---
+#title: "Herramienta de Análisis Interactiva"
+page-layout: full
+---
+
+::: {.column-screen}
+<iframe
+    src="https://froila-ssw.hf.space"
+    frameborder="0"
+    width="100%"
+    height="900"
+    style="border:none;"
+></iframe>
+:::
