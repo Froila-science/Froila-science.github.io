@@ -11,12 +11,29 @@ website:
         text: "Home"
       - href: research.qmd
         text: "Research Topics" 
+        menu:
+          - href: stratospheric_variability.qmd
+            text: Stratospheric Variability
+          - href: nae.qmd
+            text: NAE
+          - href: enso.qmd
+            text: ENSO
+          - href: app.qmd
+            text: QBO
       - href: publications.qmd
         text: "Publications"
       - text: "Project SD4SP"
         href: sd4sp_project.qmd
       - href: app.qmd
-        text: "Interactive App"
+        text: "Interactive Apps"
+        menu:
+          - href: ssw_app.qmd
+            text: Extreme Stratospheric Events (SSWs & SPVs)
+          - href: app.qmd
+            text: QBO app
+          - href: enso.qmd
+            text: ENSO
+
                 
     right:
       - icon: github
