@@ -11,12 +11,18 @@ format:
 </div>
 
 <div style="text-align: center; margin-bottom: 40px;">
-  <img src="IMG_20211114_130528_Bokeh.jpg" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-bottom: 25px; width: 250px; height: 250px; object-fit: cover;">
+  <img src="IMG_20211114_130528_Bokeh.jpg" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-bottom: 25px; width: 300px; height: 300px; object-fit: cover;">
   
-  <div style="display: flex; justify-content: center; gap: 25px; font-size: 1.1em;">
-    <span><i class="bi bi-github"></i> <a href="https://github.com/Froila-science" style="text-decoration: none; color: #2c3e50;">GitHub</a></span>
-    <span><i class="bi bi-envelope"></i> <a href="mailto:froila.palmeiro@csic.es" style="text-decoration: none; color: #2c3e50;">Contact</a></span>
-    <span><i class="bi bi-mortarboard"></i> <a href="sd4sp_project.qmd" style="text-decoration: none; color: #2c3e50;">Research</a></span>
+  <div style="display: flex; justify-content: center; gap: 30px; font-size: 1.1em;">
+    <span style="display: flex; align-items: center; gap: 8px;">
+      <i class="bi bi-github"></i> <a href="https://github.com/Froila-science" style="text-decoration: none; color: #2c3e50;">GitHub</a>
+    </span>
+    <span style="display: flex; align-items: center; gap: 8px;">
+      <i class="bi bi-envelope"></i> <a href="mailto:froila.palmeiro@csic.es" style="text-decoration: none; color: #2c3e50;">Contact</a>
+    </span>
+    <span style="display: flex; align-items: center; gap: 8px;">
+      <i class="bi bi-mortarboard"></i> <a href="sd4sp_project.qmd" style="text-decoration: none; color: #2c3e50;">Research</a>
+    </span>
   </div>
 </div>
 
@@ -32,20 +38,23 @@ I recently joined the **Institute of Geosciences (IGEO) CSIC-UCM** to continue m
 
 <br>
 
-<div style="max-width: 850px; margin: 40px auto; background-color: #f8f9fa; padding: 30px; border-radius: 15px; border-left: 5px solid #3b82f6;">
-  <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-    <div style="flex: 2; min-width: 300px;">
-      <h3 style="margin-top: 0;"><a href="sd4sp_project.qmd" style="text-decoration: none; color: #3b82f6;">Project SD4SP</a></h3>
-      <p style="margin-bottom: 0;">
-        SD4SP is a personal project funded by the European Commission under the **Marie Skłodowska-Curie Actions** (GA-101065820). It aims to disentangle atmospheric teleconnections via the stratosphere to improve seasonal forecasts.
-      </p>
-    </div>
-    <div style="flex: 1; display: flex; justify-content: center; gap: 15px; min-width: 180px;">
-      <img src="sd4sp_logo_noback.png" height="70px">
-      <img src="MSCA.png" height="70px">
-    </div>
-  </div>
-</div>
+::: {.column-page-inset style="max-width: 850px; margin: 40px auto; background-color: #f8f9fa; padding: 30px; border-radius: 15px; border-left: 5px solid #3b82f6;"}
+
+::: {layout="[70,30]" style="align-items: center; display: flex; flex-wrap: wrap; gap: 20px;"}
+
+::: {#project-text}
+### [Project SD4SP](sd4sp_project.qmd){style="text-decoration: none; color: #3b82f6;"}
+SD4SP is a personal project funded by the European Commission under the **Marie Skłodowska-Curie Actions** (GA-101065820). It aims to disentangle atmospheric teleconnections via the stratosphere to improve seasonal forecasts.
+:::
+
+::: {#project-logos style="display: flex; justify-content: center; gap: 15px;"}
+![](sd4sp_logo_noback.png){height="75px"}
+![](MSCA.png){height="75px"}
+:::
+
+:::
+
+:::
 
 <br>
 
