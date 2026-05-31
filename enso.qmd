@@ -19,7 +19,7 @@ format:
       In the meanwhile, look how nicely the polar vortex develops...
     </p>
     
-    <img src="polar_vortex_evolution.gif" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" alt="Polar Vortex Development">
+    <img src="vortex.gif" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" alt="Polar Vortex Development">
     
     <p style="font-size: 0.8rem; color: #888; margin-top: 10px; font-style: italic;">
       Visualization of the stratospheric polar vortex life cycle.
