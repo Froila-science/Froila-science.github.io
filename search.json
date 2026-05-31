@@ -1,66 +1,66 @@
 [
   {
-    "objectID": "sd4sp_project.html",
-    "href": "sd4sp_project.html",
-    "title": "Project SD4SP",
-    "section": "",
-    "text": "The SD4SP Project focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of ENSO and the QBO over the North Atlantic - European (NAE) region through their teleconnection via the stratospehere. The aim of SD4SP is to identify this mechanims to improve their representation in climate models.\n\n\nThe figure below summarizes the coupling processes analyzed in this project, focusing on the downward influence of Stratospheric Sudden Warming (SSW) events.\n\n\n\nFigure 1: Conceptual model of the coupling between the polar vortex and tropospheric circulation."
-  },
-  {
-    "objectID": "sd4sp_project.html#project-overview",
-    "href": "sd4sp_project.html#project-overview",
-    "title": "Project SD4SP",
-    "section": "",
-    "text": "The SD4SP Project focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of ENSO and the QBO over the North Atlantic - European (NAE) region through their teleconnection via the stratospehere. The aim of SD4SP is to identify this mechanims to improve their representation in climate models.\n\n\nThe figure below summarizes the coupling processes analyzed in this project, focusing on the downward influence of Stratospheric Sudden Warming (SSW) events.\n\n\n\nFigure 1: Conceptual model of the coupling between the polar vortex and tropospheric circulation."
-  },
-  {
-    "objectID": "sd4sp_project.html#interactive-diagnostic-tools",
-    "href": "sd4sp_project.html#interactive-diagnostic-tools",
-    "title": "Project SD4SP",
-    "section": "Interactive Diagnostic Tools",
-    "text": "Interactive Diagnostic Tools\n\n🌪️ SSW Diagnostic Tool📈 QBO diagnostics\n\n\nThis tool identifies SSW events based on multiple wind reversal criteria (U5570, U160, etc.) and visualizes their impact on different surface variables. A list of SSW dates is also provided for downloading.\n\n\n\n\n\nThis tool computes and plots the QBO winds and its index."
-  },
-  {
-    "objectID": "ssws.html",
-    "href": "ssws.html",
-    "title": "Stratospheric Variability & SSW Definitions",
+    "objectID": "spvs.html",
+    "href": "spvs.html",
+    "title": "Strong Polar Vortex (SPV) Variability",
     "section": "",
     "text": "← Back to Project Overview"
   },
   {
-    "objectID": "ssws.html#sudden-stratospheric-warming-ssw-events",
-    "href": "ssws.html#sudden-stratospheric-warming-ssw-events",
-    "title": "Stratospheric Variability & SSW Definitions",
-    "section": "Sudden Stratospheric Warming (SSW) Events",
-    "text": "Sudden Stratospheric Warming (SSW) Events\nThis section compares SSW onset dates across three different definitions. Even when dates vary slightly due to atmospheric lag, they often represent the same physical event. U5570_11M: Zonal-mean zonal wind reversals at any latitude between 55-70N and 10 hPa. Final warmings events occurring earlier than 11 March are considered as SSWs because they share similar dynamical impacts Palmeiro et al., 2017 U65 and U60 correspond to the traditional definition in Charlton and Polvani, 2007 but using 65 N or 60 N respectively. ### Comparative Event Table\n\n\n\nEvent #\nU5570_11M\nU65\nU60\n\n\n\n\n1\n23 Dec 1950\n-\n-\n\n\n2\n28 Jan 1951\n9 Feb 1951\n9 Feb 1951\n\n\n3\n9 Feb 1952\n11 Feb 1952\n19 Feb 1952\n\n\n4\n11 Nov 1952\n14 Nov 1952\n20 Nov 1952\n\n\n5\n17 Jan 1953\n-\n-\n\n\n6\n16 Jan 1954\n-\n-\n\n\n7\n11 Jan 1955\n11 Jan 1955\n12 Jan 1955\n\n\n8\n4 Feb 1957\n5 Feb 1957\n4 Feb 1957\n\n\n9\n27 Jan 1958\n30 Jan 1958\n1 Feb 1958\n\n\n10\n4 Jan 1960\n5 Jan 1960\n17 Jan 1960\n\n\n11\n25 Jan 1963\n1 Feb 1963\n27 Jan 1963\n\n\n12\n1 Dec 1965\n10 Dec 1965\n16 Dec 1965\n\n\n13\n19 Feb 1966\n20 Feb 1966\n22 Feb 1966\n\n\n14\n6 Jan 1968\n6 Jan 1968\n7 Jan 1968\n\n\n15\n25 Nov 1968\n26 Nov 1968\n28 Nov 1968\n\n\n16\n12 Mar 1969\n13 Mar 1969\n13 Mar 1969\n\n\n17\n1 Jan 1970\n1 Jan 1970\n2 Jan 1970\n\n\n18\n12 Jan 1971\n17 Jan 1971\n18 Jan 1971\n\n\n19\n-\n18 Mar 1971\n20 Mar 1971\n\n\n20\n30 Jan 1973\n31 Jan 1973\n31 Jan 1973\n\n\n21\n11 Mar 1974\n-\n-\n\n\n22\n22 Nov 1976\n-\n-\n\n\n23\n25 Dec 1976\n25 Dec 1976\n-\n\n\n24\n-\n-\n9 Jan 1977\n\n\n25\n10 Mar 1978\n-\n-\n\n\n26\n6 Dec 1978\n-\n-\n\n\n27\n25 Jan 1979\n-\n-\n\n\n28\n21 Feb 1979\n21 Feb 1979\n22 Feb 1979\n\n\n29\n1 Mar 1980\n-\n-\n\n\n30\n6 Feb 1981\n-\n-\n\n\n31\n-\n1 Mar 1981\n4 Mar 1981\n\n\n32\n3 Dec 1981\n3 Dec 1981\n4 Dec 1981\n\n\n33\n21 Feb 1984\n-\n24 Feb 1984\n\n\n34\n30 Dec 1984\n31 Dec 1984\n1 Jan 1985\n\n\n35\n19 Jan 1987\n22 Jan 1987\n23 Jan 1987\n\n\n36\n7 Dec 1987\n7 Dec 1987\n8 Dec 1987\n\n\n37\n-\n13 Mar 1988\n-\n\n\n38\n17 Feb 1989\n20 Feb 1989\n21 Feb 1989\n\n\n39\n3 Feb 1991\n4 Feb 1991\n-\n\n\n40\n5 Mar 1993\n5 Mar 1993\n-\n\n\n41\n2 Jan 1994\n2 Jan 1994\n-\n\n\n42\n22 Jan 1995\n-\n-\n\n\n43\n-\n4 Feb 1995\n-\n\n\n44\n23 Nov 1996\n24 Nov 1996\n-\n\n\n45\n27 Dec 1997\n-\n-\n\n\n46\n-\n7 Jan 1998\n-\n\n\n47\n15 Dec 1998\n15 Dec 1998\n15 Dec 1998\n\n\n48\n25 Feb 1999\n26 Feb 1999\n26 Feb 1999\n\n\n49\n22 Nov 2000\n23 Nov 2000\n-\n\n\n50\n2 Feb 2001\n3 Feb 2001\n11 Feb 2001\n\n\n51\n27 Dec 2001\n29 Dec 2001\n30 Dec 2001\n\n\n52\n16 Feb 2002\n16 Feb 2002\n17 Feb 2002\n\n\n53\n26 Mar 2002\n-\n-\n\n\n54\n17 Jan 2003\n17 Jan 2003\n18 Jan 2003\n\n\n55\n17 Feb 2003\n18 Feb 2003\n-\n\n\n56\n2 Jan 2004\n3 Jan 2004\n5 Jan 2004\n\n\n57\n14 Jan 2006\n21 Jan 2006\n21 Jan 2006\n\n\n58\n23 Feb 2007\n23 Feb 2007\n24 Feb 2007\n\n\n59\n22 Feb 2008\n22 Feb 2008\n22 Feb 2008\n\n\n60\n24 Jan 2009\n24 Jan 2009\n24 Jan 2009\n\n\n61\n24 Jan 2010\n26 Jan 2010\n9 Feb 2010\n\n\n62\n-\n-\n24 Mar 2010\n\n\n63\n15 Jan 2012\n-\n-\n\n\n64\n14 Feb 2012\n-\n-\n\n\n65\n25 Dec 2012\n7 Jan 2013\n6 Jan 2013\n\n\n66\n4 Jan 2015\n-\n-\n\n\n67\n1 Mar 2016\n-\n-\n\n\n68\n23 Nov 2016\n24 Nov 2016\n-\n\n\n69\n1 Feb 2017\n1 Feb 2017\n-\n\n\n70\n24 Feb 2017\n25 Feb 2017\n-\n\n\n71\n11 Feb 2018\n11 Feb 2018\n12 Feb 2018\n\n\n72\n-\n-\n20 Mar 2018\n\n\n73\n30 Dec 2018\n31 Dec 2018\n1 Jan 2019\n\n\n74\n4 Jan 2021\n4 Jan 2021\n5 Jan 2021"
+    "objectID": "spvs.html#strong-polar-vortex-spv-events",
+    "href": "spvs.html#strong-polar-vortex-spv-events",
+    "title": "Strong Polar Vortex (SPV) Variability",
+    "section": "Strong Polar Vortex (SPV) Events",
+    "text": "Strong Polar Vortex (SPV) Events\nWhile SSWs represent the breakdown of the vortex, Strong Polar Vortex (SPV) events consist of periods where the stratospheric jet is exceptionally intense and the polar temperatures are unusually low. These states often lead to a positive NAO phase, characterized by milder and stormier conditions in Northern Europe.\n\nSPV Event List\nDates indicate the onset of peak intensity for each identified event.\n\n\n\nEvent #\nDate\nEvent #\nDate\n\n\n\n\n1\n24 Jan 1957\n24\n3 Feb 1989\n\n\n2\n13 Mar 1960\n25\n14 Jan 1991\n\n\n3\n7 Feb 1961\n26\n27 Jan 1993\n\n\n4\n23 Jan 1962\n27\n28 Feb 1994\n\n\n5\n6 Apr 1962\n28\n7 Feb 1996\n\n\n6\n30 Jan 1964\n29\n3 Feb 1997\n\n\n7\n23 Jan 1965\n30\n1 Mar 1997\n\n\n8\n26 Jan 1967\n31\n22 Mar 1997\n\n\n9\n25 Feb 1967\n32\n17 Apr 1997\n\n\n10\n18 Mar 1967\n33\n17 Jan 2005\n\n\n11\n17 Feb 1972\n34\n15 Feb 2007\n\n\n12\n18 Jan 1974\n35\n7 Jan 2009\n\n\n13\n8 Feb 1974\n36\n9 Feb 2011\n\n\n14\n11 Jan 1976\n37\n5 Mar 2011\n\n\n15\n5 Feb 1976\n38\n12 Apr 2013\n\n\n16\n9 Mar 1976\n39\n11 Mar 2015\n\n\n17\n7 Feb 1980\n40\n20 Jan 2016\n\n\n18\n15 Jan 1981\n41\n16 Feb 2016\n\n\n19\n7 Jan 1983\n42\n11 Mar 2019\n\n\n20\n22 Jan 1984\n43\n14 Jan 2020\n\n\n21\n22 Dec 1985\n44\n13 Feb 2020\n\n\n22\n7 Feb 1988\n45\n6 Mar 2020\n\n\n23\n4 Jan 1989"
   },
   {
-    "objectID": "ssws.html#downward-propagation-analysis",
-    "href": "ssws.html#downward-propagation-analysis",
-    "title": "Stratospheric Variability & SSW Definitions",
-    "section": "Downward Propagation Analysis",
-    "text": "Downward Propagation Analysis\nThe following figures show the PC-index a similar metric to the Northern Annular Mode (NAM), but calculates as zonal-mean geopotential height anomalies over the polar cap and standarized at each pressure level.\n\nU5570_11M Propagation\n\n\n\nFigure 1: Composite downward propagation for U5570_11M definition. SD4SP project GA:101065820\n\n\n\n\n\n📋 Export Data\n\n💾 Download Data (.txt)\n\n\n\n\nReferences\n\nCharlton, A. J., & Polvani, L. M. (2007). A New Look at Stratospheric Sudden Warmings. Part I: Climatology and Modeling Benchmarks. Journal of Climate, 20(3), 449-469.\nPalmeiro, F. M., Iza, M., Barriopedro, D., Calvo, N., & García‐Herrera, R. (2017). The northwestern Pacific transition of the North Pacific Oscillation and its atmospheric teleconnections. Geophysical Research Letters, 44(11), 5663-5671."
+    "objectID": "spvs.html#downward-propagation-strong-vortex",
+    "href": "spvs.html#downward-propagation-strong-vortex",
+    "title": "Strong Polar Vortex (SPV) Variability",
+    "section": "Downward Propagation: Strong Vortex",
+    "text": "Downward Propagation: Strong Vortex\nThese figures illustrate the persistent downward coupling during SPV events. In contrast to SSWs, the NAM anomalies remain positive, strengthening the tropospheric jet stream.\n\n\n\nFigure 1: Composite downward propagation of NAM anomalies for SPV events. SD4SP project GA:101065820\n\n\n\n\nPrint Summary"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Froila M. Palmeiro",
     "section": "",
-    "text": "Manuscripts in Preparation & Under Review\n\nPalmeiro, F. M., J. A. Anstey and QBOi co-authors. QBO-resolving model biases and their impacts on the extratropical teleconnections. (In preparation).\nPalmeiro, F. M., Verónica Martínez-Andradas, A. Sanna, P. A. and S. Gualdi. The impact of a better solved stratosphere in the CMCC seasonal prediction system. (In preparation).\nPalmeiro, F. M., B. Mezzina, and J. García-Serrano. The ENSO modulation of the 3-dimensional structure of the stratospheric polar vortex. (To be submitted).\nSun, L., F. M. Palmeiro and M. Jucker. Stratosphere Relays El Niño’s Cross-continental Teleconnection from Winter North America to Early-summer Eurasia.(To be submitted)\nBlanco-Cabanillas, A., R. K. Scharien, S. E. L. Howell and F. M. Palmeiro. Sea ice regime shifts in Baffin Bay in the context of multi-decadal atmospheric variability. (Under review).\nAndrews, M. B., N. Butchart, E. Bednarz, D. Elsbury, F. M. Palmeiro, et al. Extratropical teleconnections in a multi-model ensemble nudged towards the observed QBO. Weather Clim. Dyn. (Under review).\n\n\n\n\nPublished & Peer-Reviewed\n\n2025\n\nRodrigo, M., J. L. García-Franco, J. García-Serrano, I. Bladé, and F. M. Palmeiro. (2025). Mechanisms of the QBO influence on the tropical troposphere: modulation by ENSO conditions. J. Geophys. Res.: Atmos.\nPalmeiro, F. M., P. Hitchcock, and J. García-Serrano. (2025). Separating Multi-decadal and Interannual dynamics in the Tropical Pacific Ocean and their stratospheric teleconnections. Geophysical Research Letters.\nElsbury, D., …, F. M. Palmeiro, et al. (2025). QBOi El Niño Southern Oscillation experiments: Assessing relationships between ENSO, MJO, and QBO. Weather Clim. Dyn.\nRodrigo, M., …, F. M. Palmeiro. (2025). Mechanisms of the QBO influence on the tropical troposphere: climatological SST conditions. J. Geophys. Res.: Atmos.\nNaoe, H., …, F. M. Palmeiro, et al. (2025). QBOi El Niño Southern Oscillation experiments: Teleconnections of the QBO. Weather Clim. Dyn.\nKawatani, Y., …, F. M. Palmeiro, et al. (2025). QBOi El Nino Southern Oscillation experiments Part I: Overview of experiment design and ENSO modulation of the QBO. Weather Clim. Dyn.\nMezzina, B., F. M. Palmeiro, H. Goosse, and J. A. Anstey. (2025). Impact of stratospheric polar vortex variability on Antarctic sea ice. Climate Dynamics.\nGarfinkel, C. I., …, F. M. Palmeiro, et al. (2025). A process-based evaluation of biases in extratropical stratosphere-troposphere coupling in subseasonal forecast systems. Weather Clim. Dyn.\n\n\n\n2024\n\nVolpi, D., J. García-Serrano, F. M. Palmeiro, L. Gil-Reyes, and R. J. Haarsma. (2024). Tropical Atlantic variability in EC-EARTH: impact of the radiative forcing. Climate Dynamics.\n\n\n\n2020 - 2023\n\nPalmeiro, F. M., et al. (2023). On the influence of ENSO on sudden stratospheric warmings. JGR: Atmospheres.\nPalmeiro, F. M., et al. (2022). Boreal winter stratospheric climatology: CMIP6 version. Climate Dynamics.\nLawrence, Z. D., …, F. M. Palmeiro, et al. (2022). Quantifying stratospheric biases and identifying their potential sources in subseasonal prediction systems. Weather Clim. Dyn.\n\n\n\n2014 - 2019\n\nAyarzagüena, B., F. M. Palmeiro, et al. (2019). On the representation of major stratospheric warmings in reanalyses. ACP.\nPalmeiro, F. M., et al. (2017). The complex behaviour of El Niño winter 2015-2016. Geophysical Research Letters.\nPalmeiro, F. M., et al. (2015). Comparing Sudden Stratospheric Warming Definitions in Reanalysis Data. Journal of Climate.\nPalmeiro, F. M., et al. (2014). Future changes in the Brewer Dobson circulation under different greenhouse gas concentrations. Journal of Atmospheric Sciences.\n\n\n\n\n\nReports & Thesis\n\nMudhar, R., A. Hall, J. Huang, R. W. Lee, and F. M. Palmeiro (2025). QBOi-SNAP-QUOCA (QSQ) Workshop meeting report. APARC newsletter no. 65 and Weather.\nGerber, E. P., …, F. M. Palmeiro, et al. (2021). Extratropical stratosphere-troposphere coupling. S-RIP Final Report.\nPalmeiro, F. M. (2018). Sudden Stratospheric Warmings and the Brewer-Dobson Circulation. PhD Thesis, UCM."
+    "text": "I completed my PhD in Physics at the Universidad Complutense de Madrid in 2018. My dissertation was entitled Sudden Stratospheric Warmings and the Brewer-Dobson Circulation: diagnostics and interactions. I next expanded my research on stratospheric dynamics and climate modelling at the Barcelona Supercomputing Center and later at the University of Barcelona, where I was also teaching and supervising Master students.\nIn 2022, I was awarded a Marie Skłodowska-Curie global fellowship to join the Euro-Mediterranean Center on Climate Change (CMCC) in Italy and develop my personal project SD4SP (Stratospheric Dynamics for Seasonal Prediction), to understand and quantify the role of El Niño Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) as sources of predictability in seasonal forecasting. I am a long-term visitor at the Canadian Centre for Climate Modelling and Analysis (CCCma) in Victoria, Canada, where the outgoing phase of the project takes place.\nMy main area of interest is stratosphere-troposphere dynamics, including climate variability and predictability, global circulation patterns and their impacts on the surface as well as their representation in climate models.\n\n\nSD4SP: Stratospheric Dynamics for Seasonal Prediction \nSD4SP is a personal project funded by the European Commission in the Marie Skłodowska-Curie Actions framework. It aims to disentangle the mechanisms of atmospheric teleconnections via the stratosphere in order to improve seasonal forecasts."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Under Maintenance",
+    "objectID": "stratospheric_variability.html",
+    "href": "stratospheric_variability.html",
+    "title": "Stratospheric Variability",
     "section": "",
-    "text": "We are currently updating our interactive visualizations.\nReturn to Home"
+    "text": "← Back to Project Overview"
   },
   {
-    "objectID": "research.html#section-temporarily-unavailable",
-    "href": "research.html#section-temporarily-unavailable",
-    "title": "Under Maintenance",
-    "section": "",
-    "text": "We are currently updating our interactive visualizations.\nReturn to Home"
+    "objectID": "stratospheric_variability.html#the-stratospheric-polar-vortex-spv",
+    "href": "stratospheric_variability.html#the-stratospheric-polar-vortex-spv",
+    "title": "Stratospheric Variability",
+    "section": "The Stratospheric Polar Vortex (SPV)",
+    "text": "The Stratospheric Polar Vortex (SPV)\nThe Stratospheric Polar Vortex is a large-scale cyclone of low-pressure cold air enclosed by westerly winds that forms high above the Arctic (and Antarctic) during the autumn and winter months. It is located in the stratosphere, roughly between 10 and 50 km in altitude.\nThe strength of this vortex is a key driver of winter weather in the Northern Hemisphere. A strong, stable vortex tends to keep cold Arctic air bottled up at high latitudes, while a weak or disturbed vortex allows that cold air to spill southward into Europe and North America.\n\n\n\n\nAnimation: Daily evolution and life cycle of the Stratospheric Polar Vortex from September to March.\n\n\n\nEvolution of the stratospheric polar vortex during a typical winter season."
+  },
+  {
+    "objectID": "stratospheric_variability.html#sudden-stratospheric-warmings-ssw",
+    "href": "stratospheric_variability.html#sudden-stratospheric-warmings-ssw",
+    "title": "Stratospheric Variability",
+    "section": "Sudden Stratospheric Warmings (SSW)",
+    "text": "Sudden Stratospheric Warmings (SSW)\nA Sudden Stratospheric Warming is one of the most dramatic events in the atmosphere. In just a few days, the polar stratospheric temperature can increase by more than 50 K, and the strong westerly winds of the polar vortex can reverse to easterly.\n\n\n### Downward Propagation\nThe critical aspect for seasonal prediction is the **downward propagation**. When the stratospheric vortex breaks down or weakens significantly, the anomalies can migrate down to the troposphere, often shifting the North Atlantic storm track southwards and inducing a negative phase of the NAO.\n\n\n![**Figure 2:** Stratospheric-tropospheric coupling during SSWs.](downward_propagation.PNG){width=\"100%\"}"
+  },
+  {
+    "objectID": "stratospheric_variability.html#major-stratospheric-events-lists",
+    "href": "stratospheric_variability.html#major-stratospheric-events-lists",
+    "title": "Stratospheric Variability",
+    "section": "Major Stratospheric Events Lists",
+    "text": "Major Stratospheric Events Lists\nBelow are the historical records of the most significant events analyzed in the SD4SP project, categorized by their nature.\n\n🌪️ Major Sudden Stratospheric Warmings (SSW)\nThese events are characterized by a full reversal of the zonal mean westerly winds at 10hPa and 60°N. Some impactfull events are the following:\n\n\n\nDate of Onset\nType of Event\nDuration (days)\nSurface Impact\n\n\n\n\nJan 2021\nDisplacement\n~25\nStrong cold outbreaks in Europe\n\n\nFeb 2018\nSplit\n~30\n“Beast from the East”\n\n\nJan 2013\nDisplacement\n~20\nWet conditions in Iberia\n\n\nJan 2009\nSplit (Historical)\n&gt;40\nPersistent NAO- phase\n\n\nDec 2001\nDisplacement\n~15\nModerate cooling\n\n\n\nA complete list of sudden stratospheric warmings can be found here SSWs can be computed interactively with our tool\n\n\n🌀 Strong Polar Vortex (SPV) Events\nUnlike SSWs, these events represent an exceptionally strong and cold polar vortex, often leading to a very positive NAO phase and milder, stormier winters in Northern Europe. Some impactfull events are the following:\n\n\n\nWinter Season\nIntensity (Max Wind)\nResulting Pattern\n\n\n\n\n2019/2020\nRecord Strength\nExtremely Positive NAO+\n\n\n2010/2011\nHigh\nStormy Northern Europe\n\n\n1996/1997\nHigh\nPersistent Westerlies\n\n\n1988/1989\nModerate-High\nMilder winter in Mid-latitudes\n\n\n\nA complete list of strong polar vortex events can be found here SSWs can be computed interactively with our tool"
+  },
+  {
+    "objectID": "stratospheric_variability.html#dynamics-spv-vs-ssw",
+    "href": "stratospheric_variability.html#dynamics-spv-vs-ssw",
+    "title": "Stratospheric Variability",
+    "section": "Dynamics: SPV vs SSW",
+    "text": "Dynamics: SPV vs SSW\nUnderstanding the lifecycle of these events is key to our research. While SSWs often lead to atmospheric “blocking” and cold air outbreaks, Strong Polar Vortex events tend to “trap” the cold air at the pole, strengthening the jet stream and bringing warmer, wetter weather to Western Europe.\n\n\nData derived from ERA5 Reanalysis and analyzed within the SD4SP framework."
   },
   {
     "objectID": "nae.html",
@@ -126,45 +126,66 @@
     "text": "Policy and International Collaboration\nClimate variability and change in the North Atlantic European region often require transnational cooperation, as weather and ocean patterns do not respect borders. Understanding this variability is important for joint international efforts in climate change mitigation, resource management, and disaster response.\nThe region’s strong reliance on international trade, particularly maritime trade, means that any climate-induced disruptions could have wide-reaching impacts on the global economy.\n\n\n\nA Personal Connection\nFinally, and very importantly, because I am from Galicia, the Northwesternmost region on the Iberian Peninsula, highly exposed to storm tracks and North Atlantic variability. It is therefore a place of constant change, with storms and varying weather patterns influenced by the Atlantic weather systems.\n\n\n\n\n\nFigure: Seafront promenade in Foz, Lugo, on a not-so-frequently sunny day."
   },
   {
-    "objectID": "stratospheric_variability.html",
-    "href": "stratospheric_variability.html",
-    "title": "Stratospheric Variability",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Under Maintenance",
+    "section": "",
+    "text": "We are currently updating our interactive visualizations.\nReturn to Home"
+  },
+  {
+    "objectID": "research.html#section-temporarily-unavailable",
+    "href": "research.html#section-temporarily-unavailable",
+    "title": "Under Maintenance",
+    "section": "",
+    "text": "We are currently updating our interactive visualizations.\nReturn to Home"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Manuscripts in Preparation & Under Review\n\nPalmeiro, F. M., J. A. Anstey and QBOi co-authors. QBO-resolving model biases and their impacts on the extratropical teleconnections. (In preparation).\nPalmeiro, F. M., Verónica Martínez-Andradas, A. Sanna, P. A. and S. Gualdi. The impact of a better solved stratosphere in the CMCC seasonal prediction system. (In preparation).\nPalmeiro, F. M., B. Mezzina, and J. García-Serrano. The ENSO modulation of the 3-dimensional structure of the stratospheric polar vortex. (To be submitted).\nSun, L., F. M. Palmeiro and M. Jucker. Stratosphere Relays El Niño’s Cross-continental Teleconnection from Winter North America to Early-summer Eurasia.(To be submitted)\nBlanco-Cabanillas, A., R. K. Scharien, S. E. L. Howell and F. M. Palmeiro. Sea ice regime shifts in Baffin Bay in the context of multi-decadal atmospheric variability. (Under review).\nAndrews, M. B., N. Butchart, E. Bednarz, D. Elsbury, F. M. Palmeiro, et al. Extratropical teleconnections in a multi-model ensemble nudged towards the observed QBO. Weather Clim. Dyn. (Under review).\n\n\n\n\nPublished & Peer-Reviewed\n\n2025\n\nRodrigo, M., J. L. García-Franco, J. García-Serrano, I. Bladé, and F. M. Palmeiro. (2025). Mechanisms of the QBO influence on the tropical troposphere: modulation by ENSO conditions. J. Geophys. Res.: Atmos.\nPalmeiro, F. M., P. Hitchcock, and J. García-Serrano. (2025). Separating Multi-decadal and Interannual dynamics in the Tropical Pacific Ocean and their stratospheric teleconnections. Geophysical Research Letters.\nElsbury, D., …, F. M. Palmeiro, et al. (2025). QBOi El Niño Southern Oscillation experiments: Assessing relationships between ENSO, MJO, and QBO. Weather Clim. Dyn.\nRodrigo, M., …, F. M. Palmeiro. (2025). Mechanisms of the QBO influence on the tropical troposphere: climatological SST conditions. J. Geophys. Res.: Atmos.\nNaoe, H., …, F. M. Palmeiro, et al. (2025). QBOi El Niño Southern Oscillation experiments: Teleconnections of the QBO. Weather Clim. Dyn.\nKawatani, Y., …, F. M. Palmeiro, et al. (2025). QBOi El Nino Southern Oscillation experiments Part I: Overview of experiment design and ENSO modulation of the QBO. Weather Clim. Dyn.\nMezzina, B., F. M. Palmeiro, H. Goosse, and J. A. Anstey. (2025). Impact of stratospheric polar vortex variability on Antarctic sea ice. Climate Dynamics.\nGarfinkel, C. I., …, F. M. Palmeiro, et al. (2025). A process-based evaluation of biases in extratropical stratosphere-troposphere coupling in subseasonal forecast systems. Weather Clim. Dyn.\n\n\n\n2024\n\nVolpi, D., J. García-Serrano, F. M. Palmeiro, L. Gil-Reyes, and R. J. Haarsma. (2024). Tropical Atlantic variability in EC-EARTH: impact of the radiative forcing. Climate Dynamics.\n\n\n\n2020 - 2023\n\nPalmeiro, F. M., et al. (2023). On the influence of ENSO on sudden stratospheric warmings. JGR: Atmospheres.\nPalmeiro, F. M., et al. (2022). Boreal winter stratospheric climatology: CMIP6 version. Climate Dynamics.\nLawrence, Z. D., …, F. M. Palmeiro, et al. (2022). Quantifying stratospheric biases and identifying their potential sources in subseasonal prediction systems. Weather Clim. Dyn.\n\n\n\n2014 - 2019\n\nAyarzagüena, B., F. M. Palmeiro, et al. (2019). On the representation of major stratospheric warmings in reanalyses. ACP.\nPalmeiro, F. M., et al. (2017). The complex behaviour of El Niño winter 2015-2016. Geophysical Research Letters.\nPalmeiro, F. M., et al. (2015). Comparing Sudden Stratospheric Warming Definitions in Reanalysis Data. Journal of Climate.\nPalmeiro, F. M., et al. (2014). Future changes in the Brewer Dobson circulation under different greenhouse gas concentrations. Journal of Atmospheric Sciences.\n\n\n\n\n\nReports & Thesis\n\nMudhar, R., A. Hall, J. Huang, R. W. Lee, and F. M. Palmeiro (2025). QBOi-SNAP-QUOCA (QSQ) Workshop meeting report. APARC newsletter no. 65 and Weather.\nGerber, E. P., …, F. M. Palmeiro, et al. (2021). Extratropical stratosphere-troposphere coupling. S-RIP Final Report.\nPalmeiro, F. M. (2018). Sudden Stratospheric Warmings and the Brewer-Dobson Circulation. PhD Thesis, UCM."
+  },
+  {
+    "objectID": "ssws.html",
+    "href": "ssws.html",
+    "title": "Stratospheric Variability & SSW Definitions",
     "section": "",
     "text": "← Back to Project Overview"
   },
   {
-    "objectID": "stratospheric_variability.html#the-stratospheric-polar-vortex-spv",
-    "href": "stratospheric_variability.html#the-stratospheric-polar-vortex-spv",
-    "title": "Stratospheric Variability",
-    "section": "The Stratospheric Polar Vortex (SPV)",
-    "text": "The Stratospheric Polar Vortex (SPV)\nThe Stratospheric Polar Vortex is a large-scale cyclone of low-pressure cold air enclosed by westerly winds that forms high above the Arctic (and Antarctic) during the autumn and winter months. It is located in the stratosphere, roughly between 10 and 50 km in altitude.\nThe strength of this vortex is a key driver of winter weather in the Northern Hemisphere. A strong, stable vortex tends to keep cold Arctic air bottled up at high latitudes, while a weak or disturbed vortex allows that cold air to spill southward into Europe and North America.\n\n\n\n\nAnimation: Daily evolution and life cycle of the Stratospheric Polar Vortex from September to March.\n\n\n\nEvolution of the stratospheric polar vortex during a typical winter season."
+    "objectID": "ssws.html#sudden-stratospheric-warming-ssw-events",
+    "href": "ssws.html#sudden-stratospheric-warming-ssw-events",
+    "title": "Stratospheric Variability & SSW Definitions",
+    "section": "Sudden Stratospheric Warming (SSW) Events",
+    "text": "Sudden Stratospheric Warming (SSW) Events\nThis section compares SSW onset dates across three different definitions. Even when dates vary slightly due to atmospheric lag, they often represent the same physical event. U5570_11M: Zonal-mean zonal wind reversals at any latitude between 55-70N and 10 hPa. Final warmings events occurring earlier than 11 March are considered as SSWs because they share similar dynamical impacts Palmeiro et al., 2017 U65 and U60 correspond to the traditional definition in Charlton and Polvani, 2007 but using 65 N or 60 N respectively. ### Comparative Event Table\n\n\n\nEvent #\nU5570_11M\nU65\nU60\n\n\n\n\n1\n23 Dec 1950\n-\n-\n\n\n2\n28 Jan 1951\n9 Feb 1951\n9 Feb 1951\n\n\n3\n9 Feb 1952\n11 Feb 1952\n19 Feb 1952\n\n\n4\n11 Nov 1952\n14 Nov 1952\n20 Nov 1952\n\n\n5\n17 Jan 1953\n-\n-\n\n\n6\n16 Jan 1954\n-\n-\n\n\n7\n11 Jan 1955\n11 Jan 1955\n12 Jan 1955\n\n\n8\n4 Feb 1957\n5 Feb 1957\n4 Feb 1957\n\n\n9\n27 Jan 1958\n30 Jan 1958\n1 Feb 1958\n\n\n10\n4 Jan 1960\n5 Jan 1960\n17 Jan 1960\n\n\n11\n25 Jan 1963\n1 Feb 1963\n27 Jan 1963\n\n\n12\n1 Dec 1965\n10 Dec 1965\n16 Dec 1965\n\n\n13\n19 Feb 1966\n20 Feb 1966\n22 Feb 1966\n\n\n14\n6 Jan 1968\n6 Jan 1968\n7 Jan 1968\n\n\n15\n25 Nov 1968\n26 Nov 1968\n28 Nov 1968\n\n\n16\n12 Mar 1969\n13 Mar 1969\n13 Mar 1969\n\n\n17\n1 Jan 1970\n1 Jan 1970\n2 Jan 1970\n\n\n18\n12 Jan 1971\n17 Jan 1971\n18 Jan 1971\n\n\n19\n-\n18 Mar 1971\n20 Mar 1971\n\n\n20\n30 Jan 1973\n31 Jan 1973\n31 Jan 1973\n\n\n21\n11 Mar 1974\n-\n-\n\n\n22\n22 Nov 1976\n-\n-\n\n\n23\n25 Dec 1976\n25 Dec 1976\n-\n\n\n24\n-\n-\n9 Jan 1977\n\n\n25\n10 Mar 1978\n-\n-\n\n\n26\n6 Dec 1978\n-\n-\n\n\n27\n25 Jan 1979\n-\n-\n\n\n28\n21 Feb 1979\n21 Feb 1979\n22 Feb 1979\n\n\n29\n1 Mar 1980\n-\n-\n\n\n30\n6 Feb 1981\n-\n-\n\n\n31\n-\n1 Mar 1981\n4 Mar 1981\n\n\n32\n3 Dec 1981\n3 Dec 1981\n4 Dec 1981\n\n\n33\n21 Feb 1984\n-\n24 Feb 1984\n\n\n34\n30 Dec 1984\n31 Dec 1984\n1 Jan 1985\n\n\n35\n19 Jan 1987\n22 Jan 1987\n23 Jan 1987\n\n\n36\n7 Dec 1987\n7 Dec 1987\n8 Dec 1987\n\n\n37\n-\n13 Mar 1988\n-\n\n\n38\n17 Feb 1989\n20 Feb 1989\n21 Feb 1989\n\n\n39\n3 Feb 1991\n4 Feb 1991\n-\n\n\n40\n5 Mar 1993\n5 Mar 1993\n-\n\n\n41\n2 Jan 1994\n2 Jan 1994\n-\n\n\n42\n22 Jan 1995\n-\n-\n\n\n43\n-\n4 Feb 1995\n-\n\n\n44\n23 Nov 1996\n24 Nov 1996\n-\n\n\n45\n27 Dec 1997\n-\n-\n\n\n46\n-\n7 Jan 1998\n-\n\n\n47\n15 Dec 1998\n15 Dec 1998\n15 Dec 1998\n\n\n48\n25 Feb 1999\n26 Feb 1999\n26 Feb 1999\n\n\n49\n22 Nov 2000\n23 Nov 2000\n-\n\n\n50\n2 Feb 2001\n3 Feb 2001\n11 Feb 2001\n\n\n51\n27 Dec 2001\n29 Dec 2001\n30 Dec 2001\n\n\n52\n16 Feb 2002\n16 Feb 2002\n17 Feb 2002\n\n\n53\n26 Mar 2002\n-\n-\n\n\n54\n17 Jan 2003\n17 Jan 2003\n18 Jan 2003\n\n\n55\n17 Feb 2003\n18 Feb 2003\n-\n\n\n56\n2 Jan 2004\n3 Jan 2004\n5 Jan 2004\n\n\n57\n14 Jan 2006\n21 Jan 2006\n21 Jan 2006\n\n\n58\n23 Feb 2007\n23 Feb 2007\n24 Feb 2007\n\n\n59\n22 Feb 2008\n22 Feb 2008\n22 Feb 2008\n\n\n60\n24 Jan 2009\n24 Jan 2009\n24 Jan 2009\n\n\n61\n24 Jan 2010\n26 Jan 2010\n9 Feb 2010\n\n\n62\n-\n-\n24 Mar 2010\n\n\n63\n15 Jan 2012\n-\n-\n\n\n64\n14 Feb 2012\n-\n-\n\n\n65\n25 Dec 2012\n7 Jan 2013\n6 Jan 2013\n\n\n66\n4 Jan 2015\n-\n-\n\n\n67\n1 Mar 2016\n-\n-\n\n\n68\n23 Nov 2016\n24 Nov 2016\n-\n\n\n69\n1 Feb 2017\n1 Feb 2017\n-\n\n\n70\n24 Feb 2017\n25 Feb 2017\n-\n\n\n71\n11 Feb 2018\n11 Feb 2018\n12 Feb 2018\n\n\n72\n-\n-\n20 Mar 2018\n\n\n73\n30 Dec 2018\n31 Dec 2018\n1 Jan 2019\n\n\n74\n4 Jan 2021\n4 Jan 2021\n5 Jan 2021"
   },
   {
-    "objectID": "stratospheric_variability.html#sudden-stratospheric-warmings-ssw",
-    "href": "stratospheric_variability.html#sudden-stratospheric-warmings-ssw",
-    "title": "Stratospheric Variability",
-    "section": "Sudden Stratospheric Warmings (SSW)",
-    "text": "Sudden Stratospheric Warmings (SSW)\nA Sudden Stratospheric Warming is one of the most dramatic events in the atmosphere. In just a few days, the polar stratospheric temperature can increase by more than 50 K, and the strong westerly winds of the polar vortex can reverse to easterly.\n\n\n### Downward Propagation\nThe critical aspect for seasonal prediction is the **downward propagation**. When the stratospheric vortex breaks down or weakens significantly, the anomalies can migrate down to the troposphere, often shifting the North Atlantic storm track southwards and inducing a negative phase of the NAO.\n\n\n![**Figure 2:** Stratospheric-tropospheric coupling during SSWs.](downward_propagation.PNG){width=\"100%\"}"
+    "objectID": "ssws.html#downward-propagation-analysis",
+    "href": "ssws.html#downward-propagation-analysis",
+    "title": "Stratospheric Variability & SSW Definitions",
+    "section": "Downward Propagation Analysis",
+    "text": "Downward Propagation Analysis\nThe following figures show the PC-index a similar metric to the Northern Annular Mode (NAM), but calculates as zonal-mean geopotential height anomalies over the polar cap and standarized at each pressure level.\n\nU5570_11M Propagation\n\n\n\nFigure 1: Composite downward propagation for U5570_11M definition. SD4SP project GA:101065820\n\n\n\n\n\n📋 Export Data\n\n💾 Download Data (.txt)\n\n\n\n\nReferences\n\nCharlton, A. J., & Polvani, L. M. (2007). A New Look at Stratospheric Sudden Warmings. Part I: Climatology and Modeling Benchmarks. Journal of Climate, 20(3), 449-469.\nPalmeiro, F. M., Iza, M., Barriopedro, D., Calvo, N., & García‐Herrera, R. (2017). The northwestern Pacific transition of the North Pacific Oscillation and its atmospheric teleconnections. Geophysical Research Letters, 44(11), 5663-5671."
   },
   {
-    "objectID": "stratospheric_variability.html#major-stratospheric-events-lists",
-    "href": "stratospheric_variability.html#major-stratospheric-events-lists",
-    "title": "Stratospheric Variability",
-    "section": "Major Stratospheric Events Lists",
-    "text": "Major Stratospheric Events Lists\nBelow are the historical records of the most significant events analyzed in the SD4SP project, categorized by their nature.\n\n🌪️ Major Sudden Stratospheric Warmings (SSW)\nThese events are characterized by a full reversal of the zonal mean westerly winds at 10hPa and 60°N. Some impactfull events are the following:\n\n\n\nDate of Onset\nType of Event\nDuration (days)\nSurface Impact\n\n\n\n\nJan 2021\nDisplacement\n~25\nStrong cold outbreaks in Europe\n\n\nFeb 2018\nSplit\n~30\n“Beast from the East”\n\n\nJan 2013\nDisplacement\n~20\nWet conditions in Iberia\n\n\nJan 2009\nSplit (Historical)\n&gt;40\nPersistent NAO- phase\n\n\nDec 2001\nDisplacement\n~15\nModerate cooling\n\n\n\nA complete list of sudden stratospheric warmings can be found here SSWs can be computed interactively with our tool\n\n\n🌀 Strong Polar Vortex (SPV) Events\nUnlike SSWs, these events represent an exceptionally strong and cold polar vortex, often leading to a very positive NAO phase and milder, stormier winters in Northern Europe. Some impactfull events are the following:\n\n\n\nWinter Season\nIntensity (Max Wind)\nResulting Pattern\n\n\n\n\n2019/2020\nRecord Strength\nExtremely Positive NAO+\n\n\n2010/2011\nHigh\nStormy Northern Europe\n\n\n1996/1997\nHigh\nPersistent Westerlies\n\n\n1988/1989\nModerate-High\nMilder winter in Mid-latitudes\n\n\n\nA complete list of strong polar vortex events can be found here SSWs can be computed interactively with our tool"
-  },
-  {
-    "objectID": "stratospheric_variability.html#dynamics-spv-vs-ssw",
-    "href": "stratospheric_variability.html#dynamics-spv-vs-ssw",
-    "title": "Stratospheric Variability",
-    "section": "Dynamics: SPV vs SSW",
-    "text": "Dynamics: SPV vs SSW\nUnderstanding the lifecycle of these events is key to our research. While SSWs often lead to atmospheric “blocking” and cold air outbreaks, Strong Polar Vortex events tend to “trap” the cold air at the pole, strengthening the jet stream and bringing warmer, wetter weather to Western Europe.\n\n\nData derived from ERA5 Reanalysis and analyzed within the SD4SP framework."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Froila M. Palmeiro",
+    "objectID": "sd4sp_project.html",
+    "href": "sd4sp_project.html",
+    "title": "Project SD4SP",
     "section": "",
-    "text": "I completed my PhD in Physics at the Universidad Complutense de Madrid in 2018. My dissertation was entitled Sudden Stratospheric Warmings and the Brewer-Dobson Circulation: diagnostics and interactions. I next expanded my research on stratospheric dynamics and climate modelling at the Barcelona Supercomputing Center and later at the University of Barcelona, where I was also teaching and supervising Master students.\nIn 2022, I was awarded a Marie Skłodowska-Curie global fellowship to join the Euro-Mediterranean Center on Climate Change (CMCC) in Italy and develop my personal project SD4SP (Stratospheric Dynamics for Seasonal Prediction), to understand and quantify the role of El Niño Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) as sources of predictability in seasonal forecasting. I am a long-term visitor at the Canadian Centre for Climate Modelling and Analysis (CCCma) in Victoria, Canada, where the outgoing phase of the project takes place.\nMy main area of interest is stratosphere-troposphere dynamics, including climate variability and predictability, global circulation patterns and their impacts on the surface as well as their representation in climate models.\n\n\nSD4SP: Stratospheric Dynamics for Seasonal Prediction \nSD4SP is a personal project funded by the European Commission in the Marie Skłodowska-Curie Actions framework. It aims to disentangle the mechanisms of atmospheric teleconnections via the stratosphere in order to improve seasonal forecasts."
+    "text": "The SD4SP Project focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of ENSO and the QBO over the North Atlantic - European (NAE) region through their teleconnection via the stratospehere. The aim of SD4SP is to identify this mechanims to improve their representation in climate models.\n\n\nThe figure below summarizes the coupling processes analyzed in this project, focusing on the downward influence of Stratospheric Sudden Warming (SSW) events.\n\n\n\nFigure 1: Conceptual model of the coupling between the polar vortex and tropospheric circulation."
+  },
+  {
+    "objectID": "sd4sp_project.html#project-overview",
+    "href": "sd4sp_project.html#project-overview",
+    "title": "Project SD4SP",
+    "section": "",
+    "text": "The SD4SP Project focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of ENSO and the QBO over the North Atlantic - European (NAE) region through their teleconnection via the stratospehere. The aim of SD4SP is to identify this mechanims to improve their representation in climate models.\n\n\nThe figure below summarizes the coupling processes analyzed in this project, focusing on the downward influence of Stratospheric Sudden Warming (SSW) events.\n\n\n\nFigure 1: Conceptual model of the coupling between the polar vortex and tropospheric circulation."
+  },
+  {
+    "objectID": "sd4sp_project.html#interactive-diagnostic-tools",
+    "href": "sd4sp_project.html#interactive-diagnostic-tools",
+    "title": "Project SD4SP",
+    "section": "Interactive Diagnostic Tools",
+    "text": "Interactive Diagnostic Tools\n\n🌪️ SSW Diagnostic Tool📈 QBO diagnostics\n\n\nThis tool identifies SSW events based on multiple wind reversal criteria (U5570, U160, etc.) and visualizes their impact on different surface variables. A list of SSW dates is also provided for downloading.\n\n\n\n\n\nThis tool computes and plots the QBO winds and its index."
   }
 ]
