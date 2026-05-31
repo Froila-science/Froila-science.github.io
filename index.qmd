@@ -1,68 +1,73 @@
 ---
 title: "Froila M. Palmeiro"
 subtitle: "Climate Researcher"
-image: IMG_20211114_130528_Bokeh.jpg
-about:
-  template: trestles
-  image-width: 20em
-  image-shape: rounded
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/Froila-science
-    - icon: mortarboard
-      text: ResearchGate
-    - icon: envelope
-      text: Contact
-      href: mailto:froila.palmeiro@csic.es
+format:
+  html:
+    page-layout: full
 ---
 
-### Bio
+<div style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap;">
 
-I completed my PhD in Physics at the Universidad Complutense de Madrid in 2018. My dissertation was entitled *Sudden Stratospheric Warmings and the Brewer-Dobson Circulation: diagnostics and interactions*. I next expanded my research on stratospheric dynamics and climate modelling at the Barcelona Supercomputing Center and later at the University of Barcelona, where I was also teaching and supervising Master students.
+  <div style="flex: 0 0 250px; display: flex; flex-direction: column; gap: 20px;">
+    
+    <img src="IMG_20211114_130528_Bokeh.jpg" style="width: 100%; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    
+    <div style="display: flex; flex-direction: column; gap: 10px; font-size: 0.9em;">
+      <a href="https://github.com/Froila-science" style="text-decoration: none; color: #333;">
+        <i class="bi bi-github"></i> GitHub
+      </a>
+      <a href="mailto:froila.palmeiro@csic.es" style="text-decoration: none; color: #333;">
+        <i class="bi bi-envelope"></i> Contact
+      </a>
+      <a href="sd4sp_project.qmd" style="text-decoration: none; color: #333;">
+        <i class="bi bi-mortarboard"></i> Research Topics
+      </a>
+    </div>
 
-In 2022, I was awarded a **Marie Skłodowska-Curie** global fellowship to join the Euro-Mediterranean Center on Climate Change (CMCC) in Italy and develop my personal project **SD4SP** (Stratospheric Dynamics for Seasonal Prediction), partly at the Canadian Centre for Climate Modelling and Analysis (CCCma) in Victoria, where the outgoing phase of the project was depeloped. SD4SP aims to understand and quantify the role of El Niño Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) as sources of predictability in seasonal forecasting.
+    <hr style="margin: 10px 0;">
 
-I recently joined the Institute of Geosciences (IGEO) CSIC-UCM to continue my research on stratosphere-troposphere dynamics, including climate variability and predictability, global circulation patterns and their impacts on the surface as well as their representation in climate models.
-<br>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+      <img src="sd4sp_logo_noback.png" width="120px">
+      <img src="MSCA.png" width="120px">
+    </div>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: justify;">
+    
+    <h2 style="margin-top: 0;">Climate Researcher</h2>
+    
+  I completed my PhD in Physics at the Universidad Complutense de Madrid in 2018. My dissertation was entitled *Sudden Stratospheric Warmings and the Brewer-Dobson Circulation: diagnostics and interactions*. I next expanded my research on stratospheric dynamics and climate modelling at the Barcelona Supercomputing Center and later at the University of Barcelona, where I was also teaching and supervising Master students.
+
+  In 2022, I was awarded a **Marie Skłodowska-Curie** global fellowship to join the Euro-Mediterranean Center on Climate Change (CMCC) in Italy and develop my personal project **SD4SP** (Stratospheric Dynamics for Seasonal Prediction), partly at the Canadian Centre for Climate Modelling and Analysis (CCCma) in Victoria, where the outgoing phase of the project was depeloped. SD4SP aims to understand and quantify the role of El Niño Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) as sources of predictability in seasonal forecasting.
+
+  I recently joined the Institute of Geosciences (IGEO) CSIC-UCM to continue my research on stratosphere-troposphere dynamics, including climate variability and predictability, global circulation patterns and their impacts on the surface as well as their representation in climate models.
+    <br>
+
+    <div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 5px solid #3b82f6;">
+      <h4 style="margin-top: 0;">[Project SD4SP](sd4sp_project.qmd)</h4>
+      SD4SP is a personal project funded by the European Commission under the Marie Skłodowska-Curie Actions (GA-101065820). It aims to disentangle atmospheric teleconnections via the stratosphere to improve seasonal forecasts.
+    </div>
+
+  </div>
+
+</div>
+
+<br><br>
 
 ---
 
 ### Explore my work
 
 ::: {layout-ncol="3"}
-
 #### [Publications](publications.qmd)
-[![](images/publications.png){width="100%"}](publications.qmd)
+[![](publications.png)](publications.qmd)
 
 #### [Software](https://github.com/Froila-science)
-[![](images/software.png){width="100%"}](https://github.com/Froila-science)
+[![](software.png)](https://github.com/Froila-science)
 
 #### [Scientific questions](sd4sp_project.qmd)
-[![](images/scientific_questions.png){width="100%"}](sd4sp_project.qmd)
-
+[![](scientific_questions.png)](sd4sp_project.qmd)
 :::
-
-<br>
-
----
-
-### [SD4SP Project](sd4sp_project.qmd){style="text-decoration: none;"}
-
-<div style="display: flex; align-items: center; gap: 25px;">
-  <div style="flex: 2;">
-    SD4SP is a personal project funded by the European Commission in the **Marie Skłodowska-Curie Actions** framework (GA-101065820). It aims to disentangle the mechanisms of atmospheric teleconnections via the stratosphere to improve seasonal forecasts.
-  </div>
-  <div style="flex: 1; display: flex; gap: 10px; justify-content: center;">
-    <img src="sd4sp_logo_noback.png" width="100px">
-    <img src="MSCA.png" width="100px">
-  </div>
-</div>
-
-<style>
-  p { text-align: justify; }
-</style>
-
 <p style="text-align: center; color: #888; font-style: italic; font-size: 0.9rem;">
   More results to come soon...
 </p>
