@@ -11,7 +11,7 @@ format:
 </div>
 
 ::: {style="text-align: center; margin-bottom: 40px;"}
-<img src="IMG_20211114_130528_Bokeh.jpg" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-bottom: 25px; width: 350px; height: 350px; object-fit: cover;">
+<img src="IMG_20211114_130528_Bokeh.jpg" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-bottom: 25px; width: 400px; height: 400px; object-fit: cover;">
 
 ::: {style="display: flex; justify-content: center; gap: 30px; font-size: 1.2em;"}
 [<i class="bi bi-github"></i> GitHub](https://github.com/Froila-science){style="text-decoration: none; color: #2c3e50;"}
@@ -38,7 +38,7 @@ SD4SP is a personal project funded by the European Commission under the **Marie 
 
 ::: {style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;"}
 ![](sd4sp_logo_noback.png){height="80px"}
-![](MSCA.png){height="80px"}
+![](MSCA.png.webp){height="80px"}
 :::
 
 :::
@@ -46,7 +46,7 @@ SD4SP is a personal project funded by the European Commission under the **Marie 
 <br>
 
 ::: {style="text-align: center; margin-bottom: 30px;"}
-### Explore my work
+### Work
 :::
 
 ::: {layout-ncol="3"}
@@ -61,7 +61,7 @@ SD4SP is a personal project funded by the European Commission under the **Marie 
 :::
 
 ::: {style="text-align: center;"}
-#### [Scientific questions](sd4sp_project.qmd){style="text-decoration: none; color: #2c3e50;"}
+#### [Scientific Qs](sd4sp_project.qmd){style="text-decoration: none; color: #2c3e50;"}
 [![](scientific_questions.png)](sd4sp_project.qmd)
 :::
 :::
