@@ -5,19 +5,7 @@ website:
   title: "Froila M. Palmeiro"
   navbar:
     logo: "ssw.png"
-    left: |
-      <div id="google_translate_element"></div>
-      <script type="text/javascript">
-        function googleTranslateElementInit() {
-          new google.translate.TranslateElement({
-            pageLanguage: 'en', 
-            includedLanguages: 'es,en,it,ca', 
-            layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-          }, 'google_translate_element');
-        }
-      </script>
-      <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-    
+    left:
       - icon: house
         href: index.qmd
         text: "Home"
@@ -43,18 +31,32 @@ website:
             text: QBO app
           - href: enso.qmd
             text: ENSO
-
-                
     right:
       - icon: github
-        href: https://github.com/Froila-science  # Tu perfil
+        href: https://github.com/Froila-science
+
+  # MOVEMOS EL TRADUCTOR AQUÍ (Pie de página) PARA QUE NO DE ERROR
+  page-footer:
+    left: |
+      <div id="google_translate_element"></div>
+      <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({
+            pageLanguage: 'en', 
+            includedLanguages: 'es,en,it,ca', 
+            layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+          }, 'google_translate_element');
+        }
+      </script>
+      <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    right: "SD4SP Project | GA:101065820"
 
 format:
   html:
     theme: 
       light: cosmo
       dark: darkly
-    css: styles.css  # <-- Asegúrate de incluir esta línea si creaste el archivo CSS para justificar el texto
+    css: styles.css
     fontsize: 1.1em
     linestretch: 1.5
     toc: true
@@ -63,4 +65,3 @@ format:
     code-copy: true
     anchor-sections: true
     smooth-scroll: true
-     
