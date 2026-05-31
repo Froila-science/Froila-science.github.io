@@ -17,8 +17,11 @@ The **Stratospheric Polar Vortex** is a large-scale cyclone of low-pressure cold
 
 The strength of this vortex is a key driver of winter weather in the Northern Hemisphere. A strong, stable vortex tends to keep cold Arctic air bottled up at high latitudes, while a weak or disturbed vortex allows that cold air to spill southward into Europe and North America.
 
-::: {style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin: 30px 0; background-color: #fcfcfc; padding: 20px; border-radius: 12px; border: 1px solid #eee;"}
-![**Animation:** Daily evolution and life cycle of the Stratospheric Polar Vortex from September to March.](vortex.gif){width="85%"}
+::: {style="text-align: center; margin: 30px 0; background-color: #fcfcfc; padding: 25px; border-radius: 12px; border: 1px solid #eee;"}
+![](vortex.gif){width="85%"}
+
+**Animation:** Daily evolution and life cycle of the Stratospheric Polar Vortex from September to March.
+
 *Evolution of the stratospheric polar vortex during a typical winter season.*
 :::
 
@@ -28,24 +31,18 @@ The strength of this vortex is a key driver of winter weather in the Northern He
 
 A **Sudden Stratospheric Warming** is one of the most dramatic events in the atmosphere. In just a few days, the polar stratospheric temperature can increase tens of K, and the strong westerly winds of the polar vortex typically reverse to easterly.
 
-::: {.callout-note appearance="simple" icon=false}
+::: {.callout-note appearance="simple" icon=false style="background-color: #f8f9fa; border: 1px solid #dee2e6;"}
 ## ⬇️ Downward Propagation
 
-::: {layout="[65,35]" style="align-items: center;"}
-
-::: {#desc-text}
 The critical aspect for seasonal prediction is the **downward propagation**. When the stratospheric vortex breaks down or weakens significantly, the anomalies can extend through the lower stratosphere and the troposphere. 
 
 This process often:
 * Shifts the North Atlantic storm track southwards.
 * Induces a **negative phase of the NAO** (North Atlantic Oscillation).
 * Results in severe cold outbreaks in Europe and North America.
-:::
 
-::: {#desc-img}
-![Stratospheric-tropospheric coupling during SSWs.](downward_propagation.png){width="100%" .border .rounded}
-:::
-
+::: {style="text-align: center; margin-top: 20px;"}
+![Stratospheric-tropospheric coupling during SSWs.](downward_propagation.png){width="70%" .border .rounded}
 :::
 :::
 
