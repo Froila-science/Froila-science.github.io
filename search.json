@@ -179,7 +179,7 @@
     "href": "sd4sp_project.html",
     "title": "Froila M. Palmeiro",
     "section": "",
-    "text": "&lt;h1 style=\"font-size: 3em; font-weight: 700; color: #2c3e50; margin-bottom: 5px;\"&gt;SD4SP Project&lt;/h1&gt;\n&lt;p style=\"font-size: 1.5em; color: #666; font-style: italic; margin: 0;\"&gt;Stratospheric Dynamics for Seasonal Prediction&lt;/p&gt;\n\n\n&lt;img src=\"sd4sp_logo_noback.png\" height=\"80px\"&gt;\n&lt;img src=\"MSCA.png\" height=\"80px\"&gt;"
+    "text": "&lt;h1 style=\"font-size: 3.5em; font-weight: 800; color: #2c3e50; margin-bottom: 0px; line-height: 1.1;\"&gt;Project SD4SP&lt;/h1&gt;\n&lt;p style=\"font-size: 1.6em; color: #666; font-style: italic; margin-top: 10px;\"&gt;Stratospheric Dynamics for Seasonal Prediction&lt;/p&gt;\n\n\n&lt;img src=\"sd4sp_logo_noback.png\" height=\"100px\" style=\"object-fit: contain;\"&gt;\n&lt;img src=\"MSCA.png\" height=\"100px\" style=\"object-fit: contain;\"&gt;"
   },
   {
     "objectID": "sd4sp_project.html#project-overview",
@@ -193,13 +193,13 @@
     "href": "sd4sp_project.html#interactive-diagnostic-tools",
     "title": "Froila M. Palmeiro",
     "section": "Interactive Diagnostic Tools",
-    "text": "Interactive Diagnostic Tools\nClick on the links below to access our specialized interactive tools. Each application will open in a dedicated page for a better analysis experience:\n\n\n🌪️ SSW Diagnostic Tool\nFull-page tool to identify Sudden Stratospheric Warming events and analyze their downward propagation.\n\n\n📈 QBO Analysis Tool\nInteractive dashboard to explore the Quasi-Biennial Oscillation phases and its relationship with the polar vortex."
+    "text": "Interactive Diagnostic Tools\nClick on the links below to access our specialized interactive tools:\n\n\n🌪️ SSW Diagnostic Tool\nFull-page tool to identify Sudden Stratospheric Warming events and analyze their downward propagation.\n\n\n📈 QBO Analysis Tool\nInteractive dashboard to explore the Quasi-Biennial Oscillation phases and its relationship with the polar vortex."
   },
   {
     "objectID": "sd4sp_project.html#research-topics",
     "href": "sd4sp_project.html#research-topics",
     "title": "Froila M. Palmeiro",
     "section": "Research Topics",
-    "text": "Research Topics\n\n\n\nNorth Atlantic European (NAE)\n Exploring regional climate variability and storm tracks.\n\n\nStratospheric Sudden Warmings (SSW)\n Analysis of extreme stratospheric polar vortex breakdowns.\n\n\nENSO\n El Niño – Southern Oscillation and its remote impacts.\n\n\n\n\nPolar Vortex\n Dynamics of the winter stratospheric polar jet.\n\n\nQBO\n The Quasi-Biennial Oscillation and its tropical-extratropical coupling.\n\n\nTeleconnections\n Atmospheric bridges connecting different regions of the climate system.\n\n\n\n\nMore results to come soon…"
+    "text": "Research Topics\n\n\nNorth Atlantic European (NAE)\n\n\nExploring regional climate variability and storm tracks.\n\n\n\nSudden Stratospheric Warmings (SSW)\n\n\nAnalysis of extreme stratospheric polar vortex breakdowns.\n\n\n\nENSO\n\n\nEl Niño – Southern Oscillation and its remote impacts.\n\n\n\nPolar Vortex\n\n\nDynamics of the winter stratospheric polar jet.\n\n\n\nQBO\n\n\nThe Quasi-Biennial Oscillation and its tropical-extratropical coupling.\n\n\n\nTeleconnections\n\n\nAtmospheric bridges connecting different regions.\n\n\n\n\nMore results to come soon…"
   }
 ]
