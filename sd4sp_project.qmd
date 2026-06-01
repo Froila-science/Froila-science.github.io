@@ -33,27 +33,27 @@ Click on the links below to access our specialized interactive tools. Each appli
 ::: {layout-ncol="2"}
 
 ### [North Atlantic European (NAE)](nae.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](NAE.png){width="100%" group="topics"}](nae.qmd)
+[![](NAE.png){width="50%" group="topics"}](nae.qmd)
 *Exploring regional climate variability and storm tracks.*
 
 ### [Stratospheric Sudden Warmings (SSW)](ssws.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](vortex2.png){width="100%" group="topics"}](stratospheric_variability.qmd)
+[![](vortex2.png){width="50%" group="topics"}](stratospheric_variability.qmd)
 *Analysis of extreme stratospheric polar vortex breakdowns.*
 
 ### [ENSO](enso.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](enso.png){width="100%" group="topics"}](enso.qmd)
+[![](enso.png){width="50%" group="topics"}](enso.qmd)
 *El Niño – Southern Oscillation and its remote impacts.*
 
 ### [Polar Vortex](stratospheric_variability.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](vortex3d.png){width="100%" group="topics"}](stratospheric_variability.qmd)
+[![](vortex3d.png){width="50%" group="topics"}](stratospheric_variability.qmd)
 *Dynamics of the winter stratospheric polar jet.*
 
 ### [QBO](qbo.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](qbo.PNG){width="100%" group="topics"}](qbo.qmd)
+[![](qbo.PNG){width="50%" group="topics"}](qbo.qmd)
 *The Quasi-Biennial Oscillation and its tropical-extratropical coupling.*
 
 ### [Teleconnections](teleconnections.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](telco.png){width="100%" group="topics"}](teleconnections.qmd)
+[![](telco.png){width="50%" group="topics"}](teleconnections.qmd)
 *Atmospheric bridges connecting different regions of the climate system.*
 
 :::
