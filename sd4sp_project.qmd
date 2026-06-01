@@ -5,11 +5,11 @@ format:
     toc: true
 ---
 
-::: {.column-screen-inset-shaded style="padding: 30px; margin-bottom: 40px; border-bottom: 1px solid #eee;"}
-::: {layout="[70,30]" style="align-items: center;"}
+::: {.column-screen-inset-shaded style="padding: 30px; margin-bottom: 60px; border-bottom: 1px solid #eee;"}
+::: {layout="[60,30]" style="align-items: center;"}
 
 ::: {#title-area}
-# Project SD4SP
+# SD4SP Project
 ### *Stratospheric Dynamics for Seasonal Prediction*
 :::
 
