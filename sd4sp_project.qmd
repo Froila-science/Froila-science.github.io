@@ -5,16 +5,21 @@ format:
     toc: true
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #eee; padding-bottom: 20px; margin-bottom: 40px;">
-  <div>
-    <h1 style="font-size: 3.5em; font-weight: 800; color: #2c3e50; margin: 0; padding: 0; border: none;">Project SD4SP</h1>
-    <p style="font-size: 1.6em; color: #666; font-style: italic; margin: 5px 0 0 0;">Stratospheric Dynamics for Seasonal Prediction</p>
-  </div>
-  <div style="display: flex; gap: 20px;">
-    <img src="sd4sp_logo_noback.png" height="100px">
-    <img src="MSCA.png" height="100px">
-  </div>
-</div>
+::: {.column-screen-inset-shaded style="padding: 30px; margin-bottom: 40px; border-bottom: 1px solid #eee;"}
+::: {layout="[70,30]" style="align-items: center;"}
+
+::: {#title-area}
+# Project SD4SP
+### *Stratospheric Dynamics for Seasonal Prediction*
+:::
+
+::: {#logo-area style="text-align: right;"}
+![](sd4sp_logo_noback.png){height="90px"}
+![](MSCA.png){height="90px"}
+:::
+
+:::
+:::
 
 ## Project Overview
 
@@ -29,7 +34,6 @@ The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coup
 ## Interactive Diagnostic Tools
 
 ::: {.grid}
-
 ::: {.g-col-12 .g-col-md-6}
 ### [🌪️ SSW Diagnostic Tool](ssw_app.qmd){style="text-decoration: none; color: #2c3e50;"}
 Full-page tool to identify Sudden Stratospheric Warming events and analyze their downward propagation.
@@ -39,7 +43,6 @@ Full-page tool to identify Sudden Stratospheric Warming events and analyze their
 ### [📈 QBO Analysis Tool](app.qmd){style="text-decoration: none; color: #2c3e50;"}
 Interactive dashboard to explore the Quasi-Biennial Oscillation phases and its relationship with the polar vortex.
 :::
-
 :::
 
 ---
@@ -49,51 +52,39 @@ Interactive dashboard to explore the Quasi-Biennial Oscillation phases and its r
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4 style="text-align: center; margin-bottom: 30px;"}
-<a href="nae.qmd" style="text-decoration: none; color: #2c3e50;">
-**North Atlantic European (NAE)**
-![](NAE.png){width="85%"}
-</a>
-<p style="margin-top: 10px;">*Exploring regional climate variability and storm tracks.*</p>
+[**North Atlantic European (NAE)**](nae.qmd){style="text-decoration: none; color: #2c3e50;"}
+[![](NAE.png){width="85%"}](nae.qmd)
+*Exploring regional climate variability and storm tracks.*
 :::
 
 ::: {.g-col-12 .g-col-md-4 style="text-align: center; margin-bottom: 30px;"}
-<a href="ssws.qmd" style="text-decoration: none; color: #2c3e50;">
-**Sudden Stratospheric Warmings (SSW)**
-![](vortex2.png){width="85%"}
-</a>
-<p style="margin-top: 10px;">*Analysis of extreme stratospheric polar vortex breakdowns.*</p>
+[**Extreme Stratospheric Events (ESEs)**](ssws.qmd){style="text-decoration: none; color: #2c3e50;"}
+[![](vortex2.png){width="85%"}](ssws.qmd)
+*Analysis of weak and strong events (SSWs and SPVs).*
 :::
 
 ::: {.g-col-12 .g-col-md-4 style="text-align: center; margin-bottom: 30px;"}
-<a href="enso.qmd" style="text-decoration: none; color: #2c3e50;">
-**ENSO**
-![](enso.png){width="85%"}
-</a>
-<p style="margin-top: 10px;">*El Niño – Southern Oscillation and its remote impacts.*</p>
+[**ENSO**](enso.qmd){style="text-decoration: none; color: #2c3e50;"}
+[![](enso.png){width="85%"}](enso.qmd)
+*El Niño – Southern Oscillation and its remote impacts.*
 :::
 
 ::: {.g-col-12 .g-col-md-4 style="text-align: center; margin-bottom: 30px;"}
-<a href="stratospheric_variability.qmd" style="text-decoration: none; color: #2c3e50;">
-**Polar Vortex**
-![](vortex3d.png){width="85%"}
-</a>
-<p style="margin-top: 10px;">*Dynamics of the winter stratospheric polar jet.*</p>
+[**Polar Vortex**](stratospheric_variability.qmd){style="text-decoration: none; color: #2c3e50;"}
+[![](vortex3d.png){width="85%"}](stratospheric_variability.qmd)
+*Dynamics of the winter stratospheric polar jet.*
 :::
 
 ::: {.g-col-12 .g-col-md-4 style="text-align: center; margin-bottom: 30px;"}
-<a href="qbo.qmd" style="text-decoration: none; color: #2c3e50;">
-**QBO**
-![](qbo.PNG){width="85%"}
-</a>
-<p style="margin-top: 10px;">*The Quasi-Biennial Oscillation and its tropical-extratropical coupling.*</p>
+[**QBO**](qbo.qmd){style="text-decoration: none; color: #2c3e50;"}
+[![](qbo.PNG){width="85%"}](qbo.qmd)
+*The Quasi-Biennial Oscillation and its tropical-extratropical coupling.*
 :::
 
 ::: {.g-col-12 .g-col-md-4 style="text-align: center; margin-bottom: 30px;"}
-<a href="teleconnections.qmd" style="text-decoration: none; color: #2c3e50;">
-**Teleconnections**
-![](telco.png){width="85%"}
-</a>
-<p style="margin-top: 10px;">*Atmospheric bridges connecting different regions.*</p>
+[**Teleconnections**](teleconnections.qmd){style="text-decoration: none; color: #2c3e50;"}
+[![](telco.png){width="85%"}](teleconnections.qmd)
+*Atmospheric bridges connecting different regions.*
 :::
 
 :::
