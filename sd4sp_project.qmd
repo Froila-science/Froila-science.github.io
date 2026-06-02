@@ -10,7 +10,8 @@ format:
 
 ::: {#title-area style="text-align: center;"}
 # SD4SP Project
-### *____________________Stratospheric Dynamics for Seasonal Prediction*
+### *____________________Stratospheric Dynamics for Seasonal*<br> 
+### *____________________Prediction*
 :::
 
 ::: {#logo-area style="text-align: right; margin-left: 1px"}
