@@ -5,7 +5,7 @@ format:
     toc: true
 ---
 
-::: {style="background-color: #f8f9fa; padding: 35px; margin-bottom: 50px; border-radius: 15px; border: 1px solid #dee2e6;"}
+::: {style="background-color: #f8f9fa; padding: 20px; margin-bottom: 25px; border-radius: 15px; border: 1px solid #dee2e6;"}
 
 ::: {layout="[85,15]" style="align-items: center;"}
 
