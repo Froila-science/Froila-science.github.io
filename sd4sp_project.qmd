@@ -51,39 +51,51 @@ Interactive dashboard to explore the Quasi-Biennial Oscillation phases and its r
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-4 style="text-align: center; margin-bottom: 30px;"}
+::: {.g-col-12 .g-col-md-4 style="text-align: center;"}
 [**North Atlantic European (NAE)**](nae.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](NAE.png){width="85%"}](nae.qmd)
+
+[![](NAE.png){width="90%"}](nae.qmd)
+
 *Exploring regional climate variability and storm tracks.*
 :::
 
-::: {.g-col-12 .g-col-md-4 style="text-align: center; margin-bottom: 30px;"}
+::: {.g-col-12 .g-col-md-4 style="text-align: center;"}
 [**Extreme Stratospheric Events (ESEs)**](ssws.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](vortex2.png){width="85%"}](ssws.qmd)
+
+[![](vortex2.png){width="90%"}](ssws.qmd)
+
 *Analysis of weak and strong events (SSWs and SPVs).*
 :::
 
-::: {.g-col-12 .g-col-md-4 style="text-align: center; margin-bottom: 30px;"}
+::: {.g-col-12 .g-col-md-4 style="text-align: center;"}
 [**ENSO**](enso.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](enso.png){width="85%"}](enso.qmd)
+
+[![](enso.png){width="90%"}](enso.qmd)
+
 *El Niño – Southern Oscillation and its remote impacts.*
 :::
 
-::: {.g-col-12 .g-col-md-4 style="text-align: left; margin-bottom: 30px;"}
+::: {.g-col-12 .g-col-md-4 style="text-align: center;"}
 [**Polar Vortex**](stratospheric_variability.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](vortex3d.png){width="85%"}](stratospheric_variability.qmd)
+
+[![](vortex3d.png){width="90%"}](stratospheric_variability.qmd)
+
 *Dynamics of the winter stratospheric polar jet.*
 :::
 
-::: {.g-col-12 .g-col-md-4 style="text-align: left; margin-bottom: 30px;"}
+::: {.g-col-12 .g-col-md-4 style="text-align: center;"}
 [**QBO**](qbo.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](qbo.PNG){width="85%"}](qbo.qmd)
+
+[![](qbo.PNG){width="90%"}](qbo.qmd)
+
 *The Quasi-Biennial Oscillation and its tropical-extratropical coupling.*
 :::
 
-::: {.g-col-12 .g-col-md-4 style="text-align: left; margin-bottom: 30px;"}
+::: {.g-col-12 .g-col-md-4 style="text-align: center;"}
 [**Teleconnections**](teleconnections.qmd){style="text-decoration: none; color: #2c3e50;"}
-[![](telco.png){width="85%"}](teleconnections.qmd)
+
+[![](telco.png){width="90%"}](teleconnections.qmd)
+
 *Atmospheric bridges connecting different regions.*
 :::
 
