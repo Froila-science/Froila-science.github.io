@@ -15,7 +15,7 @@ format:
 :::
 
 ::: {#logo-area style="text-align: right; margin-left: 1px"}
-![](logo_combined.png){height="90px"}
+![](logo_combined.png){height="10px"}
 :::
 
 :::
