@@ -8,10 +8,8 @@ format:
 ::: {style="background-color: #f8f9fa; padding: 30px; margin-bottom: 50px; border-radius: 15px; border: 1px solid #eee;"}
 ::: {layout="[85,15]" style="align-items: center;"}
 
-::: {#title-area}
 # SD4SP Project
 ### *Stratospheric Dynamics for Seasonal Prediction*
-:::
 
 ::: {#logo-area style="text-align: right;"}
 ![](logo_combined.png){width="180px"}
