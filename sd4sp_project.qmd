@@ -7,7 +7,7 @@ format:
 
 ::: {style="background-color: #f8f9fa; padding: 35px; margin-bottom: 50px; border-radius: 15px; border: 1px solid #dee2e6;"}
 
-::: {layout="[75,25]" style="align-items: center;"}
+::: {layout="[85,15]" style="align-items: center;"}
 
 ::: {#title-area}
 <div style="font-size: 3em; font-weight: 800; color: #2c3e50; line-height: 1.1; margin-bottom: 10px;">
@@ -20,7 +20,7 @@ Stratospheric Dynamics for Seasonal Prediction
 :::
 
 ::: {#logo-area style="text-align: right;"}
-![](logo_combined.png){width="170px"}
+![](logo_combined.png){width="100px"}
 :::
 
 :::
