@@ -6,19 +6,18 @@ format:
 ---
 
 ::: {.column-screen-inset-shaded style="padding: 30px; margin-bottom: 60px; border-bottom: 1px solid #eee;"}
-::: {layout="[60,30]" style="align-items: center;"}
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
 
-::: {#title-area style="text-align: center;"}
-# SD4SP Project
-### *____________________Stratospheric Dynamics for Seasonal*<br> 
-### *____________________Prediction*
-:::
+  <div style="flex: 1; text-align: left;">
+    <h1 style="font-size: 3.5em; font-weight: 800; color: #2c3e50; margin: 0;">SD4SP Project</h1>
+    <p style="font-size: 1.6em; color: #666; font-style: italic; margin: 5px 0 0 0;">Stratospheric Dynamics for Seasonal Prediction</p>
+  </div>
 
-::: {#logo-area style="text-align: right; margin-left: 1px"}
-![](logo_combined.png){height="10px"}
-:::
+  <div style="width: 250px; text-align: right;">
+    <img src="logo_combined.png" style="width: 100%; max-width: 220px; height: auto;">
+  </div>
 
-:::
+</div>
 :::
 
 ## Project Overview
