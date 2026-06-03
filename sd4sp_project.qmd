@@ -7,7 +7,7 @@ format:
 
 ::: {.column-screen-inset-shaded style="padding: 30px; margin-bottom: 60px; border-bottom: 1px solid #eee;"}
 
-::: {layout="[95,5]" style="align-items: center;"}
+::: {layout="[90,10]" style="align-items: center;"}
 
 ::: {#title-area}
 # SD4SP Project
@@ -15,7 +15,7 @@ format:
 :::
 
 ::: {#logo-area style="text-align: right;"}
-<img src="logo_combined.png" style="width: 80px !important; height: auto !important;">
+<img src="logo_combined.png" style="width: 100px !important; height: auto !important;">
 :::
 
 :::
