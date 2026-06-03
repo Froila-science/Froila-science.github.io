@@ -6,20 +6,21 @@ format:
 ---
 
 ::: {.column-screen-inset-shaded style="padding: 30px; margin-bottom: 60px; border-bottom: 1px solid #eee;"}
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
 
-  <div style="flex: 1; text-align: left;">
-    <h1 style="font-size: 3.5em; font-weight: 800; color: #2c3e50; margin: 0;">SD4SP Project</h1>
-    <p style="font-size: 1.6em; color: #666; font-style: italic; margin: 5px 0 0 0;">Stratospheric Dynamics for Seasonal Prediction</p>
-  </div>
+::: {layout="[75,25]" style="align-items: center;"}
 
-  <div style="width: 250px; text-align: right;">
-    <img src="logo_combined.png" style="width: 100%; max-width: 220px; height: auto;">
-  </div>
-
-</div>
+::: {#title-column}
+# SD4SP Project
+### *Stratospheric Dynamics for Seasonal Prediction*
 :::
 
+::: {#logo-column}
+![](logo_combined.png){width="180px" fig-align="right"}
+:::
+
+:::
+
+:::
 ## Project Overview
 
 The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of El Niño – Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) over the [North Atlantic – European (NAE) region](nae.qmd) through their teleconnection via the stratosphere. The aim of SD4SP is to identify these mechanisms to improve their representation in climate models.
