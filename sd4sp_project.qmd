@@ -35,7 +35,6 @@ The **SD4SP Project** focuses on the mechanisms of stratosphere-troposphere coup
 :::
 
 ---
----
 
 ## Interactive Diagnostic Tools
 
