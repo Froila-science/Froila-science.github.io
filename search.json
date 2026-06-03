@@ -175,30 +175,23 @@
     "text": "Dynamics: SPV vs SSW\nUnderstanding the lifecycle of these events is key to our research. While SSWs often lead to atmospheric “blocking” and cold air outbreaks, Strong Polar Vortex events tend to “trap” the cold air at the pole, strengthening the jet stream and bringing warmer, wetter weather to Western Europe.\n\n\nData derived from ERA5 Reanalysis and analyzed within the SD4SP framework."
   },
   {
-    "objectID": "sd4sp_project.html",
-    "href": "sd4sp_project.html",
-    "title": "Froila M. Palmeiro",
-    "section": "",
-    "text": "&lt;h1 style=\"font-size: 3.5em; font-weight: 800; color: #2c3e50; margin: 0;\"&gt;SD4SP Project&lt;/h1&gt;\n&lt;p style=\"font-size: 1.6em; color: #666; font-style: italic; margin: 5px 0 0 0;\"&gt;Stratospheric Dynamics for Seasonal Prediction&lt;/p&gt;\n\n\n&lt;img src=\"logo_combined.png\" style=\"width: 100%; max-width: 220px; height: auto;\"&gt;"
-  },
-  {
     "objectID": "sd4sp_project.html#project-overview",
     "href": "sd4sp_project.html#project-overview",
-    "title": "Froila M. Palmeiro",
+    "title": "SD4SP Project",
     "section": "Project Overview",
     "text": "Project Overview\nThe SD4SP Project focuses on the mechanisms of stratosphere-troposphere coupling. Particularly the impacts of El Niño – Southern Oscillation (ENSO) and the Quasi-Biennial Oscillation (QBO) over the North Atlantic – European (NAE) region through their teleconnection via the stratosphere. The aim of SD4SP is to identify these mechanisms to improve their representation in climate models.\n\n\n\n\nConceptual model of the coupling between the polar vortex and tropospheric circulation."
   },
   {
     "objectID": "sd4sp_project.html#interactive-diagnostic-tools",
     "href": "sd4sp_project.html#interactive-diagnostic-tools",
-    "title": "Froila M. Palmeiro",
+    "title": "SD4SP Project",
     "section": "Interactive Diagnostic Tools",
     "text": "Interactive Diagnostic Tools\n\n\n🌪️ SSW Diagnostic Tool\nFull-page tool to identify Sudden Stratospheric Warming events and analyze their downward propagation.\n\n\n📈 QBO Analysis Tool\nInteractive dashboard to explore the Quasi-Biennial Oscillation phases and its relationship with the polar vortex."
   },
   {
     "objectID": "sd4sp_project.html#research-topics",
     "href": "sd4sp_project.html#research-topics",
-    "title": "Froila M. Palmeiro",
+    "title": "SD4SP Project",
     "section": "Research Topics",
     "text": "Research Topics\n\n\nNorth Atlantic European (NAE)\n\nExploring regional climate variability and storm tracks.\n\n\nExtreme Stratospheric Events (ESEs)\n\nAnalysis of weak and strong events (SSWs and SPVs).\n\n\nENSO\n\nEl Niño – Southern Oscillation and its remote impacts.\n\n\nPolar Vortex\n\nDynamics of the winter stratospheric polar jet.\n\n\nQBO\n\nThe Quasi-Biennial Oscillation and its tropical-extratropical coupling.\n\n\nTeleconnections\n\nAtmospheric bridges connecting different regions.\n\n\n\nMore results to come soon…"
   }
