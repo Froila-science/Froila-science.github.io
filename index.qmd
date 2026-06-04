@@ -37,8 +37,7 @@ I recently joined the **Institute of Geosciences (IGEO) CSIC-UCM** to continue m
 SD4SP is a personal project funded by the European Commission under the **Marie Skłodowska-Curie Actions** (GA-101065820). It aims to disentangle atmospheric teleconnections via the stratosphere to improve seasonal forecasts.
 
 ::: {style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;"}
-![](sd4sp_logo_noback.png){height="80px"}
-![](MSCA.png.webp){height="80px"}
+![](logo_combined_hor.png){height="80px"}
 :::
 
 :::
