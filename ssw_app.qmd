@@ -1,13 +1,11 @@
 ---
-title: "Interactive analysis tool"
+title: "SSW and SPV detection and impact"
 page-layout: full
 ---
 
 ::: {.column-page .text-center style="padding: 3rem 0;"}
-### SSW ans SPV detection and impact
-
 
 <a href="https://eses-app.streamlit.app/" target="_blank" class="btn btn-primary btn-lg" style="padding: 12px 30px; font-size: 1.2rem; border-radius: 8px; margin-top: 15px;">
-    <i class="bi bi-box-arrow-up-right"></i> Click to open
+    <i class="bi bi-box-arrow-up-right"></i> Click to open server (safe link)
 </a>
 :::
