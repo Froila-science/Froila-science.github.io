@@ -1,11 +1,13 @@
 ---
-title: "SSW and SPV detection and impact"
+#title: "Herramienta de Análisis Interactiva"
 page-layout: full
 ---
 
-::: {.column-page .text-center style="padding: 3rem 0;"}
-
-<a href="https://eses-app.streamlit.app/" target="_blank" class="btn btn-primary btn-lg" style="padding: 12px 30px; font-size: 1.2rem; border-radius: 8px; margin-top: 15px;">
-    <i class="bi bi-box-arrow-up-right"></i> Click to start server (safe link)
-</a>
+::: {.column-screen}
+<iframe
+	src="https://froila-ssw.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
 :::
