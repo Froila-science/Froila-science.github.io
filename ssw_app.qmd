@@ -7,5 +7,7 @@ page-layout: full
 <iframe
 	src="https://froila-ssw.hf.space"
 	frameborder="0"
+	width="950"
+	height="450"
 ></iframe>
 :::
