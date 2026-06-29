@@ -348,7 +348,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#downward-propagation-analysis" id="toc-downward-propagation-analysis" class="nav-link" data-scroll-target="#downward-propagation-analysis">Downward Propagation Analysis</a>
   <ul class="collapse">
   <li><a href="#u5570_11m-propagation" id="toc-u5570_11m-propagation" class="nav-link" data-scroll-target="#u5570_11m-propagation">U5570_11M Propagation</a></li>
-  <li><a href="#export-data" id="toc-export-data" class="nav-link" data-scroll-target="#export-data">📋 Export Data</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul></li>
   </ul>
@@ -846,6 +845,9 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 <hr>
+<button onclick="downloadCSV()" style="background-color: #2c3e50; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
+💾 Download Data (.txt)
+</button>
 </section>
 </section>
 <section id="downward-propagation-analysis" class="level2">
@@ -860,12 +862,6 @@ Figure 1: Composite downward propagation for U5570_11M definition. SD4SP project
 </p>
 </div>
 <hr>
-</section>
-<section id="export-data" class="level3">
-<h3 class="anchored" data-anchor-id="export-data">📋 Export Data</h3>
-<button onclick="downloadCSV()" style="background-color: #2c3e50; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
-💾 Download Data (.txt)
-</button>
 <script>
 function downloadCSV() {
   let content = "Event,U5570_11M,U65,U60\n";
@@ -887,7 +883,7 @@ function downloadCSV() {
 <h3 class="anchored" data-anchor-id="references">References</h3>
 <ul>
 <li>Charlton, A. J., &amp; Polvani, L. M. (2007). <a href="https://journals.ametsoc.org/view/journals/clim/20/3/jcli3996.1.xml">A New Look at Stratospheric Sudden Warmings. Part I: Climatology and Modeling Benchmarks</a>. <em>Journal of Climate</em>, 20(3), 449-469.</li>
-<li>Palmeiro, F. M., Iza, M., Barriopedro, D., Calvo, N., &amp; García‐Herrera, R. (2017). <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL072920">The northwestern Pacific transition of the North Pacific Oscillation and its atmospheric teleconnections</a>. <em>Geophysical Research Letters</em>, 44(11), 5663-5671.</li>
+<li>Palmeiro, F. M., Iza, M., Barriopedro, D., Calvo, N., &amp; García‐Herrera, R. (2017). <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL072920">The complex behavior of El Niño winter 2015–2016</a>. <em>Geophysical Research Letters</em>, 44(11), 5663-5671.</li>
 </ul>
 
 
